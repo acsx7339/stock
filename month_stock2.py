@@ -41,6 +41,7 @@ def open_fugle(stockList):
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
+    chrome_options.add_argument('--proxy-server=10.243.17.28') 
     folder = datetime.datetime.today().strftime('%Y%m%d')
     url = 'https://www.fugle.tw' 
     driver = webdriver.Chrome('./chromedriver', chrome_options=chrome_options)
