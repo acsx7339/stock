@@ -1,0 +1,1 @@
+[{"domain": "www.fugle.tw", "expiry": 1669376260, "httpOnly": false, "name": "ember_simple_auth-session-expiration_time", "path": "/", "secure": true, "value": "2592000"}, {"domain": "www.fugle.tw", "expiry": 1669376260, "httpOnly": false, "name": "ember_simple_auth-session", "path": "/", "secure": true, "value": "%7B%22authenticated%22%3A%7B%7D%7D"}]
