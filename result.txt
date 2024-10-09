@@ -2,3 +2,4998 @@ stock list is ['1101', '1102', '1103', '1104', '1108', '1109', '1110', '1201', '
 -----
 -----
 current test stock is 1101
+5MA is down trend
+-----
+current test stock is 1102
+5MA is down trend
+-----
+current test stock is 1103
+5MA is down trend
+-----
+current test stock is 1104
+5MA is down trend
+-----
+current test stock is 1108
+5MA is down trend
+-----
+current test stock is 1109
+5MA is down trend
+-----
+current test stock is 1110
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1201
+5MA is down trend
+-----
+current test stock is 1203
+5MA is down trend
+-----
+current test stock is 1210
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1213
+5MA is down trend
+-----
+current test stock is 1215
+5MA is down trend
+-----
+current test stock is 1216
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1217
+5MA is down trend
+-----
+current test stock is 1218
+5MA is down trend
+-----
+current test stock is 1219
+5MA is down trend
+-----
+current test stock is 1220
+5MA is down trend
+-----
+current test stock is 1225
+5MA is down trend
+-----
+current test stock is 1227
+5MA is down trend
+-----
+current test stock is 1229
+5MA is down trend
+-----
+current test stock is 1231
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1232
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1233
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1234
+5MA is down trend
+-----
+current test stock is 1235
+5MA is down trend
+-----
+current test stock is 1236
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1256
+5MA is down trend
+-----
+current test stock is 1301
+5MA is down trend
+-----
+current test stock is 1303
+5MA is down trend
+-----
+current test stock is 1304
+5MA is down trend
+-----
+current test stock is 1305
+5MA is down trend
+-----
+current test stock is 1307
+5MA is down trend
+-----
+current test stock is 1308
+5MA is down trend
+-----
+current test stock is 1309
+5MA is down trend
+-----
+current test stock is 1310
+5MA is down trend
+-----
+current test stock is 1312
+5MA is down trend
+-----
+current test stock is 1313
+5MA is down trend
+-----
+current test stock is 1314
+5MA is down trend
+-----
+current test stock is 1315
+5MA is down trend
+-----
+current test stock is 1316
+5MA is down trend
+-----
+current test stock is 1319
+5MA is down trend
+-----
+current test stock is 1321
+5MA is down trend
+-----
+current test stock is 1323
+5MA is down trend
+-----
+current test stock is 1324
+5MA is down trend
+-----
+current test stock is 1325
+5MA is down trend
+-----
+current test stock is 1326
+5MA is down trend
+-----
+current test stock is 1337
+5MA is down trend
+-----
+current test stock is 1338
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1339
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1340
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1341
+5MA is down trend
+-----
+current test stock is 1342
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1402
+5MA is down trend
+-----
+current test stock is 1409
+5MA is down trend
+-----
+current test stock is 1410
+5MA is down trend
+-----
+current test stock is 1413
+5MA is down trend
+-----
+current test stock is 1414
+5MA is down trend
+-----
+current test stock is 1416
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1417
+5MA is down trend
+-----
+current test stock is 1418
+5MA is down trend
+-----
+current test stock is 1419
+5MA is down trend
+-----
+current test stock is 1423
+5MA is down trend
+-----
+current test stock is 1432
+5MA is down trend
+-----
+current test stock is 1434
+5MA is down trend
+-----
+current test stock is 1435
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1436
+5MA is down trend
+-----
+current test stock is 1437
+5MA is down trend
+-----
+current test stock is 1438
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1439
+5MA is down trend
+-----
+current test stock is 1440
+5MA is down trend
+-----
+current test stock is 1441
+5MA is down trend
+-----
+current test stock is 1442
+5MA is down trend
+-----
+current test stock is 1443
+5MA is down trend
+-----
+current test stock is 1444
+5MA is down trend
+-----
+current test stock is 1445
+5MA is down trend
+-----
+current test stock is 1446
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1447
+5MA is down trend
+-----
+current test stock is 1449
+5MA is down trend
+-----
+current test stock is 1451
+5MA is down trend
+-----
+current test stock is 1452
+5MA is down trend
+-----
+current test stock is 1453
+5MA is down trend
+-----
+current test stock is 1454
+5MA is down trend
+-----
+current test stock is 1455
+5MA is down trend
+-----
+current test stock is 1456
+5MA is down trend
+-----
+current test stock is 1457
+5MA is down trend
+-----
+current test stock is 1459
+5MA is down trend
+-----
+current test stock is 1460
+5MA is down trend
+-----
+current test stock is 1463
+5MA is down trend
+-----
+current test stock is 1464
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1465
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1466
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1467
+5MA is down trend
+-----
+current test stock is 1468
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1470
+5MA is down trend
+-----
+current test stock is 1471
+5MA is down trend
+-----
+current test stock is 1472
+5MA is down trend
+-----
+current test stock is 1473
+5MA is down trend
+-----
+current test stock is 1474
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1475
+5MA is down trend
+-----
+current test stock is 1476
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1477
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1503
+5MA is down trend
+-----
+current test stock is 1504
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1506
+5MA is down trend
+-----
+current test stock is 1512
+5MA is down trend
+-----
+current test stock is 1513
+5MA is down trend
+-----
+current test stock is 1514
+5MA is down trend
+-----
+current test stock is 1515
+5MA is down trend
+-----
+current test stock is 1516
+5MA is down trend
+-----
+current test stock is 1517
+5MA is down trend
+-----
+current test stock is 1519
+5MA is down trend
+-----
+current test stock is 1521
+5MA is down trend
+-----
+current test stock is 1522
+5MA is down trend
+-----
+current test stock is 1524
+5MA is down trend
+-----
+current test stock is 1525
+5MA is down trend
+-----
+current test stock is 1526
+5MA is down trend
+-----
+current test stock is 1527
+5MA is down trend
+-----
+current test stock is 1528
+5MA is down trend
+-----
+current test stock is 1529
+5MA is down trend
+-----
+current test stock is 1530
+5MA is down trend
+-----
+current test stock is 1531
+5MA is down trend
+-----
+current test stock is 1532
+5MA is down trend
+-----
+current test stock is 1533
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1535
+5MA is down trend
+-----
+current test stock is 1536
+5MA is down trend
+-----
+current test stock is 1537
+5MA is down trend
+-----
+current test stock is 1538
+5MA is down trend
+-----
+current test stock is 1539
+5MA is down trend
+-----
+current test stock is 1540
+5MA is down trend
+-----
+current test stock is 1541
+5MA is down trend
+-----
+current test stock is 1558
+5MA is down trend
+-----
+current test stock is 1560
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1563
+5MA is down trend
+-----
+current test stock is 1568
+5MA is down trend
+-----
+current test stock is 1582
+5MA is down trend
+-----
+current test stock is 1583
+5MA is down trend
+-----
+current test stock is 1587
+5MA is down trend
+-----
+current test stock is 1589
+5MA is down trend
+-----
+current test stock is 1590
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 1597
+5MA is down trend
+-----
+current test stock is 1598
+5MA is down trend
+-----
+current test stock is 1603
+5MA is down trend
+-----
+current test stock is 1604
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1605
+5MA is down trend
+-----
+current test stock is 1608
+5MA is down trend
+-----
+current test stock is 1609
+5MA is down trend
+-----
+current test stock is 1611
+5MA is down trend
+-----
+current test stock is 1612
+5MA is down trend
+-----
+current test stock is 1614
+5MA is down trend
+-----
+current test stock is 1615
+5MA is down trend
+-----
+current test stock is 1616
+5MA is down trend
+-----
+current test stock is 1617
+5MA is down trend
+-----
+current test stock is 1618
+5MA is down trend
+-----
+current test stock is 1626
+5MA is down trend
+-----
+current test stock is 1702
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1707
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1708
+5MA is down trend
+-----
+current test stock is 1709
+5MA is down trend
+-----
+current test stock is 1710
+5MA is down trend
+-----
+current test stock is 1711
+5MA is down trend
+-----
+current test stock is 1712
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1713
+5MA is down trend
+-----
+current test stock is 1714
+5MA is down trend
+-----
+current test stock is 1717
+5MA is down trend
+-----
+current test stock is 1718
+5MA is down trend
+-----
+current test stock is 1720
+5MA is down trend
+-----
+current test stock is 1721
+5MA is down trend
+-----
+current test stock is 1722
+5MA is down trend
+-----
+current test stock is 1723
+5MA is down trend
+-----
+current test stock is 1725
+5MA is down trend
+-----
+current test stock is 1726
+5MA is down trend
+-----
+current test stock is 1727
+5MA is down trend
+-----
+current test stock is 1730
+5MA is down trend
+-----
+current test stock is 1731
+5MA is down trend
+-----
+current test stock is 1732
+5MA is down trend
+-----
+current test stock is 1733
+5MA is down trend
+-----
+current test stock is 1734
+5MA is down trend
+-----
+current test stock is 1735
+5MA is down trend
+-----
+current test stock is 1736
+5MA is down trend
+-----
+current test stock is 1737
+5MA is down trend
+-----
+current test stock is 1752
+5MA is down trend
+-----
+current test stock is 1760
+5MA is down trend
+-----
+current test stock is 1762
+5MA is down trend
+-----
+current test stock is 1773
+5MA is down trend
+-----
+current test stock is 1776
+5MA is down trend
+-----
+current test stock is 1783
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 1786
+5MA is down trend
+-----
+current test stock is 1789
+5MA is down trend
+-----
+current test stock is 1795
+5MA is down trend
+-----
+current test stock is 1802
+5MA is down trend
+-----
+current test stock is 1805
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 1806
+5MA is down trend
+-----
+current test stock is 1808
+5MA is down trend
+-----
+current test stock is 1809
+5MA is down trend
+-----
+current test stock is 1810
+5MA is down trend
+-----
+current test stock is 1817
+5MA is down trend
+-----
+current test stock is 1903
+5MA is down trend
+-----
+current test stock is 1904
+5MA is down trend
+-----
+current test stock is 1905
+5MA is down trend
+-----
+current test stock is 1906
+5MA is down trend
+-----
+current test stock is 1907
+5MA is down trend
+-----
+current test stock is 1909
+5MA is down trend
+-----
+current test stock is 2002
+5MA is down trend
+-----
+current test stock is 2006
+5MA is down trend
+-----
+current test stock is 2007
+5MA is down trend
+-----
+current test stock is 2008
+5MA is down trend
+-----
+current test stock is 2009
+5MA is down trend
+-----
+current test stock is 2010
+5MA is down trend
+-----
+current test stock is 2012
+5MA is down trend
+-----
+current test stock is 2013
+5MA is down trend
+-----
+current test stock is 2014
+5MA is down trend
+-----
+current test stock is 2015
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2017
+5MA is down trend
+-----
+current test stock is 2020
+5MA is down trend
+-----
+current test stock is 2022
+5MA is down trend
+-----
+current test stock is 2023
+5MA is down trend
+-----
+current test stock is 2024
+5MA is down trend
+-----
+current test stock is 2025
+5MA is down trend
+-----
+current test stock is 2027
+5MA is down trend
+-----
+current test stock is 2028
+5MA is down trend
+-----
+current test stock is 2029
+5MA is down trend
+-----
+current test stock is 2030
+5MA is down trend
+-----
+current test stock is 2031
+5MA is down trend
+-----
+current test stock is 2032
+5MA is down trend
+-----
+current test stock is 2033
+5MA is down trend
+-----
+current test stock is 2034
+5MA is down trend
+-----
+current test stock is 2038
+5MA is down trend
+-----
+current test stock is 2049
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2059
+5MA is down trend
+-----
+current test stock is 2062
+5MA is down trend
+-----
+current test stock is 2069
+5MA is down trend
+-----
+current test stock is 2101
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2102
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+10ma value is greater than 5ma
+-----
+current test stock is 2103
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2104
+5MA is down trend
+-----
+current test stock is 2105
+5MA is down trend
+-----
+current test stock is 2106
+5MA is down trend
+-----
+current test stock is 2107
+5MA is down trend
+-----
+current test stock is 2108
+5MA is down trend
+-----
+current test stock is 2109
+5MA is down trend
+-----
+current test stock is 2114
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2115
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2201
+5MA is down trend
+-----
+current test stock is 2204
+5MA is down trend
+-----
+current test stock is 2206
+5MA is down trend
+-----
+current test stock is 2207
+5MA is down trend
+-----
+current test stock is 2208
+5MA is down trend
+-----
+current test stock is 2211
+5MA is down trend
+-----
+current test stock is 2227
+5MA is down trend
+-----
+current test stock is 2228
+5MA is down trend
+-----
+current test stock is 2231
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2233
+5MA is down trend
+-----
+current test stock is 2236
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2239
+5MA is down trend
+-----
+current test stock is 2241
+5MA is down trend
+-----
+current test stock is 2243
+5MA is down trend
+-----
+current test stock is 2247
+5MA is down trend
+-----
+current test stock is 2250
+5MA is down trend
+-----
+current test stock is 2254
+5MA is down trend
+-----
+current test stock is 2258
+5MA is down trend
+-----
+current test stock is 2301
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2302
+5MA is down trend
+-----
+current test stock is 2303
+5MA is down trend
+-----
+current test stock is 2305
+5MA is down trend
+-----
+current test stock is 2308
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2312
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2313
+5MA is down trend
+-----
+current test stock is 2314
+5MA is down trend
+-----
+current test stock is 2316
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2317
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2321
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2323
+5MA is down trend
+-----
+current test stock is 2324
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2327
+5MA is down trend
+-----
+current test stock is 2328
+5MA is down trend
+-----
+current test stock is 2329
+5MA is down trend
+-----
+current test stock is 2330
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2331
+5MA is down trend
+-----
+current test stock is 2332
+5MA is down trend
+-----
+current test stock is 2337
+5MA is down trend
+-----
+current test stock is 2338
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2340
+5MA is down trend
+-----
+current test stock is 2342
+5MA is down trend
+-----
+current test stock is 2344
+5MA is down trend
+-----
+current test stock is 2345
+5MA is down trend
+-----
+current test stock is 2347
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2348
+5MA is down trend
+-----
+current test stock is 2349
+5MA is down trend
+-----
+current test stock is 2351
+5MA is down trend
+-----
+current test stock is 2352
+5MA is down trend
+-----
+current test stock is 2353
+5MA is down trend
+-----
+current test stock is 2354
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2355
+5MA is down trend
+-----
+current test stock is 2356
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2357
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2359
+5MA is down trend
+-----
+current test stock is 2360
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 2362
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2363
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2364
+5MA is down trend
+-----
+current test stock is 2365
+5MA is down trend
+-----
+current test stock is 2367
+5MA is down trend
+-----
+current test stock is 2368
+5MA is down trend
+-----
+current test stock is 2369
+5MA is down trend
+-----
+current test stock is 2371
+5MA is down trend
+-----
+current test stock is 2373
+5MA is down trend
+-----
+current test stock is 2374
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2375
+5MA is down trend
+-----
+current test stock is 2376
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2377
+5MA is down trend
+-----
+current test stock is 2379
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2380
+5MA is down trend
+-----
+current test stock is 2382
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2383
+5MA is down trend
+-----
+current test stock is 2385
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2387
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2388
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2390
+5MA is down trend
+-----
+current test stock is 2392
+5MA is down trend
+-----
+current test stock is 2393
+5MA is down trend
+-----
+current test stock is 2395
+5MA is down trend
+-----
+current test stock is 2397
+5MA is down trend
+-----
+current test stock is 2399
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 2401
+5MA is down trend
+-----
+current test stock is 2402
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2404
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2405
+5MA is down trend
+-----
+current test stock is 2406
+5MA is down trend
+-----
+current test stock is 2408
+5MA is down trend
+-----
+current test stock is 2409
+5MA is down trend
+-----
+current test stock is 2412
+5MA is down trend
+-----
+current test stock is 2413
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2414
+5MA is down trend
+-----
+current test stock is 2415
+5MA is down trend
+-----
+current test stock is 2417
+5MA is down trend
+-----
+current test stock is 2419
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2420
+5MA is down trend
+-----
+current test stock is 2421
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2423
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2424
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 2425
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 2426
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2427
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2428
+5MA is down trend
+-----
+current test stock is 2429
+5MA is down trend
+-----
+current test stock is 2430
+5MA is down trend
+-----
+current test stock is 2431
+5MA is down trend
+-----
+current test stock is 2432
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2433
+5MA is down trend
+-----
+current test stock is 2434
+5MA is down trend
+-----
+current test stock is 2436
+5MA is down trend
+-----
+current test stock is 2438
+5MA is down trend
+-----
+current test stock is 2439
+5MA is down trend
+-----
+current test stock is 2440
+5MA is down trend
+-----
+current test stock is 2441
+5MA is down trend
+-----
+current test stock is 2442
+5MA is down trend
+-----
+current test stock is 2444
+5MA is down trend
+-----
+current test stock is 2449
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2450
+5MA is down trend
+-----
+current test stock is 2451
+5MA is down trend
+-----
+current test stock is 2453
+5MA is down trend
+-----
+current test stock is 2454
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2455
+5MA is down trend
+-----
+current test stock is 2457
+5MA is down trend
+-----
+current test stock is 2458
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2459
+5MA is down trend
+-----
+current test stock is 2460
+5MA is down trend
+-----
+current test stock is 2461
+5MA is down trend
+-----
+current test stock is 2462
+5MA is down trend
+-----
+current test stock is 2464
+5MA is down trend
+-----
+current test stock is 2465
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2466
+5MA is down trend
+-----
+current test stock is 2467
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2468
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2471
+5MA is down trend
+-----
+current test stock is 2472
+5MA is down trend
+-----
+current test stock is 2474
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is down trend
+-----
+current test stock is 2476
+5MA is down trend
+-----
+current test stock is 2477
+5MA is down trend
+-----
+current test stock is 2478
+5MA is down trend
+-----
+current test stock is 2480
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2481
+5MA is down trend
+-----
+current test stock is 2482
+5MA is down trend
+-----
+current test stock is 2483
+5MA is down trend
+-----
+current test stock is 2484
+5MA is down trend
+-----
+current test stock is 2485
+5MA is down trend
+-----
+current test stock is 2486
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2488
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2489
+5MA is down trend
+-----
+current test stock is 2491
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2492
+5MA is down trend
+-----
+current test stock is 2493
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2495
+5MA is down trend
+-----
+current test stock is 2496
+5MA is down trend
+-----
+current test stock is 2497
+5MA is down trend
+-----
+current test stock is 2498
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2501
+5MA is down trend
+-----
+current test stock is 2504
+5MA is down trend
+-----
+current test stock is 2505
+5MA is down trend
+-----
+current test stock is 2506
+5MA is down trend
+-----
+current test stock is 2509
+5MA is down trend
+-----
+current test stock is 2511
+5MA is down trend
+-----
+current test stock is 2514
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2515
+5MA is down trend
+-----
+current test stock is 2516
+5MA is down trend
+-----
+current test stock is 2520
+5MA is down trend
+-----
+current test stock is 2524
+5MA is down trend
+-----
+current test stock is 2527
+5MA is down trend
+-----
+current test stock is 2528
+5MA is down trend
+-----
+current test stock is 2530
+5MA is down trend
+-----
+current test stock is 2534
+5MA is down trend
+-----
+current test stock is 2535
+5MA is down trend
+-----
+current test stock is 2536
+5MA is down trend
+-----
+current test stock is 2537
+5MA is down trend
+-----
+current test stock is 2538
+5MA is down trend
+-----
+current test stock is 2539
+5MA is down trend
+-----
+current test stock is 2540
+5MA is down trend
+-----
+current test stock is 2542
+5MA is down trend
+-----
+current test stock is 2543
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 2545
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2546
+5MA is down trend
+-----
+current test stock is 2547
+5MA is down trend
+-----
+current test stock is 2548
+5MA is down trend
+-----
+current test stock is 2597
+5MA is down trend
+-----
+current test stock is 2601
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 2603
+5MA is down trend
+-----
+current test stock is 2605
+5MA is down trend
+-----
+current test stock is 2606
+5MA is down trend
+-----
+current test stock is 2607
+5MA is down trend
+-----
+current test stock is 2608
+5MA is down trend
+-----
+current test stock is 2609
+5MA is down trend
+-----
+current test stock is 2610
+5MA is down trend
+-----
+current test stock is 2611
+5MA is down trend
+-----
+current test stock is 2612
+5MA is down trend
+-----
+current test stock is 2613
+5MA is down trend
+-----
+current test stock is 2614
+5MA is down trend
+-----
+current test stock is 2615
+5MA is down trend
+-----
+current test stock is 2616
+5MA is down trend
+-----
+current test stock is 2617
+5MA is down trend
+-----
+current test stock is 2618
+5MA is down trend
+-----
+current test stock is 2630
+5MA is down trend
+-----
+current test stock is 2633
+5MA is down trend
+-----
+current test stock is 2634
+5MA is down trend
+-----
+current test stock is 2636
+5MA is down trend
+-----
+current test stock is 2637
+5MA is down trend
+-----
+current test stock is 2642
+5MA is down trend
+-----
+current test stock is 2645
+5MA is down trend
+-----
+current test stock is 2701
+5MA is down trend
+-----
+current test stock is 2702
+5MA is down trend
+-----
+current test stock is 2704
+5MA is down trend
+-----
+current test stock is 2705
+5MA is down trend
+-----
+current test stock is 2706
+5MA is down trend
+-----
+current test stock is 2707
+5MA is down trend
+-----
+current test stock is 2712
+5MA is down trend
+-----
+current test stock is 2722
+5MA is down trend
+-----
+current test stock is 2723
+5MA is down trend
+-----
+current test stock is 2727
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2731
+5MA is down trend
+-----
+current test stock is 2739
+5MA is down trend
+-----
+current test stock is 2748
+5MA is down trend
+-----
+current test stock is 2753
+5MA is down trend
+-----
+current test stock is 2762
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2801
+5MA is down trend
+-----
+current test stock is 2809
+5MA is down trend
+-----
+current test stock is 2812
+5MA is down trend
+-----
+current test stock is 2816
+5MA is down trend
+-----
+current test stock is 2820
+5MA is down trend
+-----
+current test stock is 2832
+5MA is down trend
+-----
+current test stock is 2834
+5MA is down trend
+-----
+current test stock is 2836
+5MA is down trend
+-----
+current test stock is 2838
+5MA is down trend
+-----
+current test stock is 2845
+5MA is down trend
+-----
+current test stock is 2849
+5MA is down trend
+-----
+current test stock is 2850
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2851
+5MA is down trend
+-----
+current test stock is 2852
+5MA is down trend
+-----
+current test stock is 2855
+5MA is down trend
+-----
+current test stock is 2867
+5MA is down trend
+-----
+current test stock is 2880
+5MA is down trend
+-----
+current test stock is 2881
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2882
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 2883
+5MA is down trend
+-----
+current test stock is 2884
+5MA is down trend
+-----
+current test stock is 2885
+5MA is down trend
+-----
+current test stock is 2886
+5MA is down trend
+-----
+current test stock is 2887
+5MA is down trend
+-----
+current test stock is 2888
+5MA is down trend
+-----
+current test stock is 2889
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2890
+5MA is down trend
+-----
+current test stock is 2891
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2892
+5MA is down trend
+-----
+current test stock is 2897
+5MA is down trend
+-----
+current test stock is 2901
+5MA is down trend
+-----
+current test stock is 2903
+5MA is down trend
+-----
+current test stock is 2904
+5MA is down trend
+-----
+current test stock is 2905
+5MA is down trend
+-----
+current test stock is 2906
+5MA is down trend
+-----
+current test stock is 2908
+5MA is down trend
+-----
+current test stock is 2910
+5MA is down trend
+-----
+current test stock is 2911
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 2912
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 2913
+5MA is down trend
+-----
+current test stock is 2915
+5MA is down trend
+-----
+current test stock is 2923
+5MA is down trend
+-----
+current test stock is 2929
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 2939
+5MA is down trend
+-----
+current test stock is 2945
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3002
+5MA is down trend
+-----
+current test stock is 3003
+5MA is down trend
+-----
+current test stock is 3004
+5MA is down trend
+-----
+current test stock is 3005
+5MA is down trend
+-----
+current test stock is 3006
+5MA is down trend
+-----
+current test stock is 3008
+5MA is down trend
+-----
+current test stock is 3010
+5MA is down trend
+-----
+current test stock is 3011
+5MA is down trend
+-----
+current test stock is 3013
+5MA is down trend
+-----
+current test stock is 3014
+5MA is down trend
+-----
+current test stock is 3015
+5MA is down trend
+-----
+current test stock is 3016
+5MA is down trend
+-----
+current test stock is 3017
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3018
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3019
+5MA is down trend
+-----
+current test stock is 3021
+5MA is down trend
+-----
+current test stock is 3022
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3023
+5MA is down trend
+-----
+current test stock is 3024
+5MA is down trend
+-----
+current test stock is 3025
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 3026
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3027
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3028
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3029
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3030
+5MA is down trend
+-----
+current test stock is 3031
+5MA is down trend
+-----
+current test stock is 3032
+5MA is down trend
+-----
+current test stock is 3033
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3034
+5MA is down trend
+-----
+current test stock is 3035
+5MA is down trend
+-----
+current test stock is 3036
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3037
+5MA is down trend
+-----
+current test stock is 3038
+5MA is down trend
+-----
+current test stock is 3040
+5MA is down trend
+-----
+current test stock is 3041
+5MA is down trend
+-----
+current test stock is 3042
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3043
+5MA is down trend
+-----
+current test stock is 3044
+5MA is down trend
+-----
+current test stock is 3045
+5MA is down trend
+-----
+current test stock is 3046
+5MA is down trend
+-----
+current test stock is 3047
+5MA is down trend
+-----
+current test stock is 3048
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3049
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 3050
+5MA is down trend
+-----
+current test stock is 3051
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3052
+5MA is down trend
+-----
+current test stock is 3054
+5MA is down trend
+-----
+current test stock is 3055
+5MA is down trend
+-----
+current test stock is 3056
+5MA is down trend
+-----
+current test stock is 3057
+5MA is down trend
+-----
+current test stock is 3058
+5MA is down trend
+-----
+current test stock is 3059
+5MA is down trend
+-----
+current test stock is 3060
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3062
+5MA is down trend
+-----
+current test stock is 3090
+5MA is down trend
+-----
+current test stock is 3092
+5MA is down trend
+-----
+current test stock is 3094
+5MA is down trend
+-----
+current test stock is 3130
+5MA is down trend
+-----
+current test stock is 3138
+5MA is down trend
+-----
+current test stock is 3149
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 3150
+5MA is down trend
+-----
+current test stock is 3164
+5MA is down trend
+-----
+current test stock is 3167
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 3168
+5MA is down trend
+-----
+current test stock is 3189
+5MA is down trend
+-----
+current test stock is 3209
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3229
+5MA is down trend
+-----
+current test stock is 3231
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3257
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+10ma value is greater than 5ma
+-----
+current test stock is 3266
+5MA is down trend
+-----
+current test stock is 3296
+5MA is down trend
+-----
+current test stock is 3305
+5MA is down trend
+-----
+current test stock is 3308
+5MA is down trend
+-----
+current test stock is 3311
+5MA is down trend
+-----
+current test stock is 3312
+5MA is down trend
+-----
+current test stock is 3321
+5MA is down trend
+-----
+current test stock is 3338
+5MA is down trend
+-----
+current test stock is 3346
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3356
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3376
+5MA is down trend
+-----
+current test stock is 3380
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3406
+5MA is down trend
+-----
+current test stock is 3413
+5MA is down trend
+-----
+current test stock is 3416
+5MA is down trend
+-----
+current test stock is 3419
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3432
+5MA is down trend
+-----
+current test stock is 3437
+5MA is down trend
+-----
+current test stock is 3443
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3447
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3450
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 3454
+5MA is down trend
+-----
+current test stock is 3481
+5MA is down trend
+-----
+current test stock is 3494
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3501
+5MA is down trend
+-----
+current test stock is 3504
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3515
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3518
+5MA is down trend
+-----
+current test stock is 3528
+5MA is down trend
+-----
+current test stock is 3530
+5MA is down trend
+-----
+current test stock is 3532
+5MA is down trend
+-----
+current test stock is 3533
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3535
+5MA is down trend
+-----
+current test stock is 3543
+5MA is down trend
+-----
+current test stock is 3545
+5MA is down trend
+-----
+current test stock is 3550
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3557
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3563
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3576
+5MA is down trend
+-----
+current test stock is 3583
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3588
+5MA is down trend
+-----
+current test stock is 3591
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3592
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3593
+5MA is down trend
+-----
+current test stock is 3596
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3605
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3607
+5MA is down trend
+-----
+current test stock is 3617
+5MA is down trend
+-----
+current test stock is 3622
+5MA is down trend
+-----
+current test stock is 3645
+5MA is down trend
+-----
+current test stock is 3652
+5MA is down trend
+-----
+current test stock is 3653
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 3661
+5MA is down trend
+-----
+current test stock is 3665
+5MA is down trend
+-----
+current test stock is 3669
+5MA is down trend
+-----
+current test stock is 3673
+5MA is down trend
+-----
+current test stock is 3679
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3686
+5MA is down trend
+-----
+current test stock is 3694
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3701
+5MA is down trend
+-----
+current test stock is 3702
+5MA is down trend
+-----
+current test stock is 3703
+5MA is down trend
+-----
+current test stock is 3704
+5MA is down trend
+-----
+current test stock is 3705
+5MA is down trend
+-----
+current test stock is 3706
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 3708
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3711
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 3712
+5MA is down trend
+-----
+current test stock is 3714
+5MA is down trend
+-----
+current test stock is 3715
+5MA is down trend
+-----
+current test stock is 3716
+5MA is down trend
+-----
+current test stock is 4104
+5MA is down trend
+-----
+current test stock is 4106
+5MA is down trend
+-----
+current test stock is 4108
+5MA is down trend
+-----
+current test stock is 4119
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4133
+5MA is down trend
+-----
+current test stock is 4137
+5MA is down trend
+-----
+current test stock is 4142
+5MA is down trend
+-----
+current test stock is 4148
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 4155
+5MA is down trend
+-----
+current test stock is 4164
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4190
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4306
+5MA is down trend
+-----
+current test stock is 4414
+5MA is down trend
+-----
+current test stock is 4426
+5MA is down trend
+-----
+current test stock is 4438
+5MA is down trend
+-----
+current test stock is 4439
+5MA is down trend
+-----
+current test stock is 4440
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4526
+5MA is down trend
+-----
+current test stock is 4532
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4536
+5MA is down trend
+-----
+current test stock is 4540
+5MA is down trend
+-----
+current test stock is 4545
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+10ma value is greater than 5ma
+-----
+current test stock is 4551
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+10ma value is greater than 5ma
+-----
+current test stock is 4552
+5MA is down trend
+-----
+current test stock is 4555
+5MA is down trend
+-----
+current test stock is 4557
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4560
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4562
+5MA is down trend
+-----
+current test stock is 4564
+5MA is down trend
+-----
+current test stock is 4566
+5MA is down trend
+-----
+current test stock is 4569
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 4571
+5MA is down trend
+-----
+current test stock is 4572
+5MA is down trend
+-----
+current test stock is 4576
+5MA is down trend
+-----
+current test stock is 4581
+5MA is down trend
+-----
+current test stock is 4583
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+10ma value is greater than 5ma
+-----
+current test stock is 4588
+5MA is down trend
+-----
+current test stock is 4720
+5MA is down trend
+-----
+current test stock is 4722
+5MA is down trend
+-----
+current test stock is 4736
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4737
+5MA is down trend
+-----
+current test stock is 4739
+5MA is down trend
+-----
+current test stock is 4746
+5MA is down trend
+-----
+current test stock is 4755
+5MA is down trend
+-----
+current test stock is 4763
+5MA is down trend
+-----
+current test stock is 4764
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4766
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 4770
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 4771
+5MA is down trend
+-----
+current test stock is 4807
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4904
+5MA is down trend
+-----
+current test stock is 4906
+5MA is down trend
+-----
+current test stock is 4912
+5MA is down trend
+-----
+current test stock is 4915
+5MA is down trend
+-----
+current test stock is 4916
+5MA is down trend
+-----
+current test stock is 4919
+5MA is down trend
+-----
+current test stock is 4927
+5MA is down trend
+-----
+current test stock is 4930
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4934
+5MA is down trend
+-----
+current test stock is 4935
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 4938
+5MA is down trend
+-----
+current test stock is 4942
+5MA is down trend
+-----
+current test stock is 4943
+5MA is down trend
+-----
+current test stock is 4949
+5MA is down trend
+-----
+current test stock is 4952
+5MA is down trend
+-----
+current test stock is 4956
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is down trend
+-----
+current test stock is 4958
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 4960
+5MA is down trend
+-----
+current test stock is 4961
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 4967
+5MA is down trend
+-----
+current test stock is 4968
+5MA is down trend
+-----
+current test stock is 4976
+5MA is down trend
+-----
+current test stock is 4977
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 4989
+5MA is down trend
+-----
+current test stock is 4994
+5MA is down trend
+-----
+current test stock is 4999
+5MA is down trend
+-----
+current test stock is 5007
+5MA is down trend
+-----
+current test stock is 5203
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 5215
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 5222
+5MA is down trend
+-----
+current test stock is 5225
+5MA is down trend
+-----
+current test stock is 5234
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 5243
+5MA is down trend
+-----
+current test stock is 5244
+5MA is down trend
+-----
+current test stock is 5258
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 5269
+5MA is down trend
+-----
+current test stock is 5283
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+10ma value is greater than 5ma
+-----
+current test stock is 5284
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 5285
+5MA is down trend
+-----
+current test stock is 5288
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 5292
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 5306
+5MA is down trend
+-----
+current test stock is 5388
+5MA is down trend
+-----
+current test stock is 5434
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 5469
+5MA is down trend
+-----
+current test stock is 5471
+5MA is down trend
+-----
+current test stock is 5484
+5MA is down trend
+-----
+current test stock is 5515
+5MA is down trend
+-----
+current test stock is 5519
+5MA is down trend
+-----
+current test stock is 5521
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 5522
+5MA is down trend
+-----
+current test stock is 5525
+5MA is down trend
+-----
+current test stock is 5531
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 5533
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 5534
+5MA is down trend
+-----
+current test stock is 5538
+5MA is down trend
+-----
+current test stock is 5546
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+10ma value is greater than 5ma
+-----
+current test stock is 5607
+5MA is down trend
+-----
+current test stock is 5608
+5MA is down trend
+-----
+current test stock is 5706
+5MA is down trend
+-----
+current test stock is 5871
+5MA is down trend
+-----
+current test stock is 5876
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 5880
+5MA is down trend
+-----
+current test stock is 5906
+5MA is down trend
+-----
+current test stock is 5907
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 6005
+5MA is down trend
+-----
+current test stock is 6024
+5MA is down trend
+-----
+current test stock is 6108
+5MA is down trend
+-----
+current test stock is 6112
+5MA is down trend
+-----
+current test stock is 6115
+5MA is down trend
+-----
+current test stock is 6116
+5MA is down trend
+-----
+current test stock is 6117
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6120
+5MA is down trend
+-----
+current test stock is 6128
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6133
+5MA is down trend
+-----
+current test stock is 6136
+5MA is down trend
+-----
+current test stock is 6139
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6141
+5MA is down trend
+-----
+current test stock is 6142
+5MA is down trend
+-----
+current test stock is 6152
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6153
+5MA is down trend
+-----
+current test stock is 6155
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6164
+5MA is down trend
+-----
+current test stock is 6165
+5MA is down trend
+-----
+current test stock is 6166
+5MA is down trend
+-----
+current test stock is 6168
+5MA is down trend
+-----
+current test stock is 6176
+5MA is down trend
+-----
+current test stock is 6177
+5MA is down trend
+-----
+current test stock is 6183
+5MA is down trend
+-----
+current test stock is 6184
+5MA is down trend
+-----
+current test stock is 6189
+5MA is down trend
+-----
+current test stock is 6191
+5MA is down trend
+-----
+current test stock is 6192
+5MA is down trend
+-----
+current test stock is 6196
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6197
+5MA is down trend
+-----
+current test stock is 6201
+5MA is down trend
+-----
+current test stock is 6202
+5MA is down trend
+-----
+current test stock is 6205
+5MA is down trend
+-----
+current test stock is 6206
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6209
+5MA is down trend
+-----
+current test stock is 6213
+5MA is down trend
+-----
+current test stock is 6214
+5MA is down trend
+-----
+current test stock is 6215
+5MA is down trend
+-----
+current test stock is 6216
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6224
+5MA is down trend
+-----
+current test stock is 6225
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+10ma value is greater than 5ma
+-----
+current test stock is 6226
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6230
+5MA is down trend
+-----
+current test stock is 6235
+5MA is down trend
+-----
+current test stock is 6239
+5MA is down trend
+-----
+current test stock is 6243
+5MA is down trend
+-----
+current test stock is 6257
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6269
+5MA is down trend
+-----
+current test stock is 6271
+5MA is down trend
+-----
+current test stock is 6277
+5MA is down trend
+-----
+current test stock is 6278
+5MA is down trend
+-----
+current test stock is 6281
+5MA is down trend
+-----
+current test stock is 6282
+5MA is down trend
+-----
+current test stock is 6283
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6285
+5MA is down trend
+-----
+current test stock is 6288
+5MA is down trend
+-----
+current test stock is 6405
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6409
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6412
+5MA is down trend
+-----
+current test stock is 6414
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6415
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6416
+5MA is down trend
+-----
+current test stock is 6423
+5MA is down trend
+-----
+current test stock is 6426
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 6431
+5MA is down trend
+-----
+current test stock is 6438
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 6442
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6443
+5MA is down trend
+-----
+current test stock is 6446
+5MA is down trend
+-----
+current test stock is 6449
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+10ma value is greater than 5ma
+-----
+current test stock is 6451
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6456
+5MA is down trend
+-----
+current test stock is 6464
+5MA is down trend
+-----
+current test stock is 6472
+5MA is down trend
+-----
+current test stock is 6477
+5MA is down trend
+-----
+current test stock is 6491
+5MA is down trend
+-----
+current test stock is 6504
+5MA is down trend
+-----
+current test stock is 6505
+5MA is down trend
+-----
+current test stock is 6515
+5MA is down trend
+-----
+current test stock is 6525
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6526
+5MA is down trend
+-----
+current test stock is 6531
+5MA is down trend
+-----
+current test stock is 6533
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6534
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6541
+5MA is down trend
+-----
+current test stock is 6550
+5MA is down trend
+-----
+current test stock is 6552
+5MA is down trend
+-----
+current test stock is 6558
+5MA is down trend
+-----
+current test stock is 6573
+5MA is down trend
+-----
+current test stock is 6579
+5MA is down trend
+-----
+current test stock is 6581
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6582
+5MA is down trend
+-----
+current test stock is 6585
+5MA is down trend
+-----
+current test stock is 6591
+5MA is down trend
+-----
+current test stock is 6592
+5MA is down trend
+-----
+current test stock is 6598
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6605
+5MA is down trend
+-----
+current test stock is 6606
+5MA is down trend
+-----
+current test stock is 6625
+5MA is down trend
+-----
+current test stock is 6641
+5MA is down trend
+-----
+current test stock is 6645
+5MA is down trend
+-----
+current test stock is 6655
+5MA is down trend
+-----
+current test stock is 6657
+5MA is down trend
+-----
+current test stock is 6658
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+10ma value is greater than 5ma
+-----
+current test stock is 6666
+5MA is down trend
+-----
+current test stock is 6668
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6669
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6670
+5MA is down trend
+-----
+current test stock is 6671
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6672
+5MA is down trend
+-----
+current test stock is 6674
+5MA is down trend
+-----
+current test stock is 6689
+5MA is down trend
+-----
+current test stock is 6691
+5MA is down trend
+-----
+current test stock is 6695
+5MA is down trend
+-----
+current test stock is 6698
+5MA is down trend
+-----
+current test stock is 6706
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 6715
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6719
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6742
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6743
+5MA is down trend
+-----
+current test stock is 6753
+5MA is down trend
+-----
+current test stock is 6754
+5MA is down trend
+-----
+current test stock is 6756
+5MA is down trend
+-----
+current test stock is 6757
+5MA is down trend
+-----
+current test stock is 6768
+5MA is down trend
+-----
+current test stock is 6770
+5MA is down trend
+-----
+current test stock is 6771
+5MA is down trend
+-----
+current test stock is 6776
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6781
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6782
+5MA is down trend
+-----
+current test stock is 6789
+5MA is down trend
+-----
+current test stock is 6790
+5MA is down trend
+-----
+current test stock is 6792
+5MA is down trend
+-----
+current test stock is 6794
+5MA is down trend
+-----
+current test stock is 6796
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6799
+5MA is down trend
+-----
+current test stock is 6805
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6806
+5MA is down trend
+-----
+current test stock is 6807
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6830
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6834
+5MA is down trend
+-----
+current test stock is 6835
+5MA is down trend
+-----
+current test stock is 6838
+5MA is down trend
+-----
+current test stock is 6854
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 6861
+5MA is down trend
+-----
+current test stock is 6863
+5MA is down trend
+-----
+current test stock is 6869
+5MA is down trend
+-----
+current test stock is 6873
+5MA is down trend
+-----
+current test stock is 6890
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6901
+5MA is down trend
+-----
+current test stock is 6902
+5MA is down trend
+-----
+current test stock is 6906
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 6914
+5MA is down trend
+-----
+current test stock is 6916
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6919
+5MA is down trend
+-----
+current test stock is 6923
+5MA is down trend
+-----
+current test stock is 6928
+5MA is down trend
+-----
+current test stock is 6933
+5MA is down trend
+-----
+current test stock is 6937
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 6949
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 6951
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is down trend
+-----
+current test stock is 6952
+5MA is down trend
+-----
+current test stock is 6957
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is down trend
+-----
+current test stock is 6958
+5MA is down trend
+-----
+current test stock is 6969
+5MA is down trend
+-----
+current test stock is 8011
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 8016
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8021
+5MA is down trend
+-----
+current test stock is 8028
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 8033
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8039
+5MA is down trend
+-----
+current test stock is 8046
+5MA is down trend
+-----
+current test stock is 8070
+5MA is down trend
+-----
+current test stock is 8072
+5MA is down trend
+-----
+current test stock is 8081
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8103
+5MA is down trend
+-----
+current test stock is 8104
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8105
+5MA is down trend
+-----
+current test stock is 8110
+5MA is down trend
+-----
+current test stock is 8112
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8114
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 8131
+5MA is down trend
+-----
+current test stock is 8150
+5MA is down trend
+-----
+current test stock is 8162
+5MA is down trend
+-----
+current test stock is 8163
+5MA is down trend
+-----
+current test stock is 8201
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 8210
+5MA is down trend
+-----
+current test stock is 8213
+5MA is down trend
+-----
+current test stock is 8215
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8222
+5MA is down trend
+-----
+current test stock is 8249
+5MA is down trend
+-----
+current test stock is 8261
+5MA is down trend
+-----
+current test stock is 8271
+5MA is down trend
+-----
+current test stock is 8341
+5MA is down trend
+-----
+current test stock is 8367
+5MA is down trend
+-----
+current test stock is 8374
+5MA is down trend
+-----
+current test stock is 8404
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 8411
+5MA is down trend
+-----
+current test stock is 8422
+5MA is down trend
+-----
+current test stock is 8429
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is far from 10ma
+-----
+current test stock is 8438
+5MA is down trend
+-----
+current test stock is 8442
+5MA is down trend
+-----
+current test stock is 8443
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8454
+5MA is down trend
+-----
+current test stock is 8462
+5MA is down trend
+-----
+current test stock is 8463
+5MA is down trend
+-----
+current test stock is 8464
+5MA is down trend
+-----
+current test stock is 8466
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 8467
+5MA is down trend
+-----
+current test stock is 8473
+5MA is down trend
+-----
+current test stock is 8476
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8478
+5MA is down trend
+-----
+current test stock is 8481
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 8482
+5MA is down trend
+-----
+current test stock is 8487
+5MA is down trend
+-----
+current test stock is 8488
+5MA is down trend
+-----
+current test stock is 8499
+5MA is down trend
+-----
+current test stock is 8926
+5MA is down trend
+-----
+current test stock is 8940
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 8996
+5MA is down trend
+-----
+current test stock is 9103
+5MA is down trend
+-----
+current test stock is 9105
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 9110
+5MA is down trend
+-----
+current test stock is 9136
+5MA is down trend
+-----
+current test stock is 9802
+5MA is down trend
+-----
+current test stock is 9902
+5MA is down trend
+-----
+current test stock is 9904
+5MA is down trend
+-----
+current test stock is 9905
+5MA is down trend
+-----
+current test stock is 9906
+5MA is down trend
+-----
+current test stock is 9907
+5MA is down trend
+-----
+current test stock is 9908
+5MA is down trend
+-----
+current test stock is 9910
+5MA is down trend
+-----
+current test stock is 9911
+5MA is down trend
+-----
+current test stock is 9912
+5MA is down trend
+-----
+current test stock is 9914
+5MA is down trend
+-----
+current test stock is 9917
+5MA is down trend
+-----
+current test stock is 9918
+5MA is down trend
+-----
+current test stock is 9919
+5MA is down trend
+-----
+current test stock is 9921
+5MA is down trend
+-----
+current test stock is 9924
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is bigger than 10ma and within 1.08%
+-----
+current test stock is 9925
+5MA is down trend
+-----
+current test stock is 9926
+5MA is down trend
+-----
+current test stock is 9927
+5MA is down trend
+-----
+current test stock is 9928
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 9929
+5MA is down trend
+-----
+current test stock is 9930
+5MA is down trend
+-----
+current test stock is 9931
+5MA is down trend
+-----
+current test stock is 9933
+5MA is down trend
+-----
+current test stock is 9934
+5MA is down trend
+-----
+current test stock is 9935
+5MA is upper trend
+10MA is down trend
+-----
+current test stock is 9937
+5MA is down trend
+-----
+current test stock is 9938
+5MA is upper trend
+10MA is upper trend
+60MA is upper trend
+5MA is upper trend
+10MA is upper trend
+5ma is bigger than 10ma and within 1.08%
+5ma is far from 10ma
+-----
+current test stock is 9939
+5MA is down trend
+-----
+current test stock is 9940
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 9941
+5MA is down trend
+-----
+current test stock is 9942
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 9943
+5MA is down trend
+-----
+current test stock is 9944
+5MA is upper trend
+10MA is upper trend
+60MA is down trend
+-----
+current test stock is 9945
+5MA is down trend
+-----
+current test stock is 9946
+5MA is down trend
+-----
+current test stock is 9955
+5MA is down trend
+-----
+current test stock is 9958
+5MA is down trend
+['1231', '1232', '1338', '1416', '1464', '1465', '1466', '1590', '2015', '2103', '2115', '2236', '2347', '2362', '2402', '2419', '2426', '2467', '2480', '2488', '2493', '2498', '2727', '2850', '2882', '3051', '3209', '3380', '3447', '3494', '3533', '3583', '3653', '4190', '4440', '4557', '4807', '4930', '4935', '5284', '5288', '5292', '6216', '6415', '6581', '6805', '6807', '6937', '8028', '8201', '8481', '9924']
+-------start to filter second times-------
+current second test stock is 1231
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     1231              1-999   15056     1.05   2852656
+1  2024-10-04     1231        1,000-5,000   11622     8.96  24316203
+2  2024-10-04     1231       5,001-10,000    1926     4.97  13496453
+3  2024-10-04     1231      10,001-15,000     707     3.16   8583274
+4  2024-10-04     1231      15,001-20,000     356     2.26   6152091
+5  2024-10-04     1231      20,001-30,000     324     2.90   7869296
+6  2024-10-04     1231      30,001-40,000     117     1.46   3970640
+7  2024-10-04     1231      40,001-50,000      84     1.38   3752347
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     1231              1-999   15076     1.05   2856764
+1  2024-09-27     1231        1,000-5,000   11625     8.96  24332780
+2  2024-09-27     1231       5,001-10,000    1924     4.96  13475833
+3  2024-09-27     1231      10,001-15,000     711     3.18   8633595
+4  2024-09-27     1231      15,001-20,000     360     2.29   6226789
+5  2024-09-27     1231      20,001-30,000     321     2.87   7812210
+6  2024-09-27     1231      30,001-40,000     118     1.48   4022318
+7  2024-09-27     1231      40,001-50,000      83     1.36   3696554
+散戶減少
+revenus is positive
+current second test stock is 1232
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     1232              1-999    8898     0.82   1323007
+1  2024-10-04     1232        1,000-5,000    7641     8.77  14042293
+2  2024-10-04     1232       5,001-10,000     670     3.23   5181276
+3  2024-10-04     1232      10,001-15,000     185     1.49   2394663
+4  2024-10-04     1232      15,001-20,000     114     1.30   2083050
+5  2024-10-04     1232      20,001-30,000      99     1.53   2458929
+6  2024-10-04     1232      30,001-40,000      50     1.09   1753163
+7  2024-10-04     1232      40,001-50,000      20     0.58    939432
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     1232              1-999    8939     0.82   1327148
+1  2024-09-27     1232        1,000-5,000    7666     8.80  14087682
+2  2024-09-27     1232       5,001-10,000     677     3.27   5239092
+3  2024-09-27     1232      10,001-15,000     186     1.50   2408616
+4  2024-09-27     1232      15,001-20,000     114     1.30   2079850
+5  2024-09-27     1232      20,001-30,000     101     1.56   2504929
+6  2024-09-27     1232      30,001-40,000      48     1.05   1682163
+7  2024-09-27     1232      40,001-50,000      22     0.64   1034432
+散戶減少
+current second test stock is 1338
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     1338              1-999   27441     0.17    149504
+1  2024-10-04     1338        1,000-5,000    5441    13.48  11303115
+2  2024-10-04     1338       5,001-10,000     824     7.69   6448430
+3  2024-10-04     1338      10,001-15,000     253     3.92   3290448
+4  2024-10-04     1338      15,001-20,000     175     3.84   3226312
+5  2024-10-04     1338      20,001-30,000     164     5.01   4206760
+6  2024-10-04     1338      30,001-40,000      70     2.95   2479658
+7  2024-10-04     1338      40,001-50,000      31     1.70   1433319
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     1338              1-999   27385     0.17    146884
+1  2024-09-27     1338        1,000-5,000    5432    13.48  11305061
+2  2024-09-27     1338       5,001-10,000     834     7.78   6529335
+3  2024-09-27     1338      10,001-15,000     252     3.92   3289348
+4  2024-09-27     1338      15,001-20,000     174     3.82   3204426
+5  2024-09-27     1338      20,001-30,000     169     5.17   4339796
+6  2024-09-27     1338      30,001-40,000      67     2.83   2378658
+7  2024-09-27     1338      40,001-50,000      38     2.09   1757319
+散戶減少
+current second test stock is 1416
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     1416              1-999   31821     2.29   4259361
+1  2024-10-04     1416        1,000-5,000    8131     9.13  16930678
+2  2024-10-04     1416       5,001-10,000    1235     5.05   9377795
+3  2024-10-04     1416      10,001-15,000     351     2.36   4392470
+4  2024-10-04     1416      15,001-20,000     228     2.27   4208962
+5  2024-10-04     1416      20,001-30,000     208     2.87   5335358
+6  2024-10-04     1416      30,001-40,000     108     2.10   3899882
+7  2024-10-04     1416      40,001-50,000      78     1.95   3620057
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     1416              1-999   31834     2.29   4260905
+1  2024-09-27     1416        1,000-5,000    8200     9.21  17076452
+2  2024-09-27     1416       5,001-10,000    1255     5.15   9545571
+3  2024-09-27     1416      10,001-15,000     362     2.44   4539635
+4  2024-09-27     1416      15,001-20,000     236     2.36   4377962
+5  2024-09-27     1416      20,001-30,000     202     2.79   5176358
+6  2024-09-27     1416      30,001-40,000     108     2.09   3890125
+7  2024-09-27     1416      40,001-50,000      81     2.03   3764057
+散戶減少
+current second test stock is 1464
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     1464              1-999   31949     0.76   3104683
+1  2024-10-04     1464        1,000-5,000   11657     5.97  24356661
+2  2024-10-04     1464       5,001-10,000    2697     4.52  18458070
+3  2024-10-04     1464      10,001-15,000    1199     3.48  14215207
+4  2024-10-04     1464      15,001-20,000     412     1.74   7126364
+5  2024-10-04     1464      20,001-30,000     640     3.75  15326137
+6  2024-10-04     1464      30,001-40,000     264     2.21   9028500
+7  2024-10-04     1464      40,001-50,000     172     1.90   7763954
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     1464              1-999   31957     0.76   3104347
+1  2024-09-27     1464        1,000-5,000   11675     5.98  24391848
+2  2024-09-27     1464       5,001-10,000    2707     4.54  18530129
+3  2024-09-27     1464      10,001-15,000    1204     3.50  14271528
+4  2024-09-27     1464      15,001-20,000     414     1.75   7153573
+5  2024-09-27     1464      20,001-30,000     633     3.72  15170461
+6  2024-09-27     1464      30,001-40,000     263     2.20   8979006
+7  2024-09-27     1464      40,001-50,000     170     1.88   7671894
+散戶增加
+current second test stock is 1465
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     1465              1-999    7221     1.44  1500685
+1  2024-10-04     1465        1,000-5,000    2837     5.27  5469576
+2  2024-10-04     1465       5,001-10,000     333     2.45  2546713
+3  2024-10-04     1465      10,001-15,000     120     1.46  1519928
+4  2024-10-04     1465      15,001-20,000      78     1.38  1433348
+5  2024-10-04     1465      20,001-30,000      83     2.03  2105252
+6  2024-10-04     1465      30,001-40,000      42     1.45  1504863
+7  2024-10-04     1465      40,001-50,000      27     1.17  1214583
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     1465              1-999    7228     1.45  1504331
+1  2024-09-27     1465        1,000-5,000    2815     5.23  5428566
+2  2024-09-27     1465       5,001-10,000     329     2.43  2520805
+3  2024-09-27     1465      10,001-15,000     117     1.42  1475976
+4  2024-09-27     1465      15,001-20,000      76     1.34  1394348
+5  2024-09-27     1465      20,001-30,000      86     2.10  2185204
+6  2024-09-27     1465      30,001-40,000      40     1.39  1441863
+7  2024-09-27     1465      40,001-50,000      31     1.35  1400455
+散戶減少
+current second test stock is 1466
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     1466              1-999   17902     0.59   666355
+1  2024-10-04     1466        1,000-5,000    3761     7.16  7968922
+2  2024-10-04     1466       5,001-10,000     684     5.00  5561800
+3  2024-10-04     1466      10,001-15,000     182     2.08  2313079
+4  2024-10-04     1466      15,001-20,000     125     2.09  2326611
+5  2024-10-04     1466      20,001-30,000     100     2.27  2527061
+6  2024-10-04     1466      30,001-40,000      43     1.39  1553655
+7  2024-10-04     1466      40,001-50,000      41     1.72  1913335
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     1466              1-999   17925     0.60   667842
+1  2024-09-27     1466        1,000-5,000    3751     7.15  7949562
+2  2024-09-27     1466       5,001-10,000     694     5.07  5636635
+3  2024-09-27     1466      10,001-15,000     185     2.12  2360389
+4  2024-09-27     1466      15,001-20,000     128     2.15  2390339
+5  2024-09-27     1466      20,001-30,000      95     2.16  2401061
+6  2024-09-27     1466      30,001-40,000      41     1.32  1470655
+7  2024-09-27     1466      40,001-50,000      43     1.80  2002265
+散戶減少
+revenus is positive
+current second test stock is 1590
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     1590              1-999    4344     0.19   380187
+1  2024-10-04     1590        1,000-5,000    1280     1.13  2275374
+2  2024-10-04     1590       5,001-10,000     170     0.63  1276892
+3  2024-10-04     1590      10,001-15,000     101     0.63  1275986
+4  2024-10-04     1590      15,001-20,000      43     0.38   761139
+5  2024-10-04     1590      20,001-30,000      66     0.81  1639705
+6  2024-10-04     1590      30,001-40,000      57     0.97  1956633
+7  2024-10-04     1590      40,001-50,000      30     0.67  1347965
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     1590              1-999    4628     0.20   413316
+1  2024-09-27     1590        1,000-5,000    1341     1.18  2378892
+2  2024-09-27     1590       5,001-10,000     179     0.67  1349687
+3  2024-09-27     1590      10,001-15,000      93     0.58  1166200
+4  2024-09-27     1590      15,001-20,000      43     0.37   752286
+5  2024-09-27     1590      20,001-30,000      65     0.80  1601494
+6  2024-09-27     1590      30,001-40,000      59     1.00  2015643
+7  2024-09-27     1590      40,001-50,000      29     0.64  1299695
+散戶減少
+current second test stock is 2015
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     2015              1-999    5291     0.11   673911
+1  2024-10-04     2015        1,000-5,000    4957     1.68  9828644
+2  2024-10-04     2015       5,001-10,000     625     0.84  4900128
+3  2024-10-04     2015      10,001-15,000     202     0.44  2568642
+4  2024-10-04     2015      15,001-20,000     109     0.34  1996900
+5  2024-10-04     2015      20,001-30,000     103     0.45  2637209
+6  2024-10-04     2015      30,001-40,000      69     0.42  2446954
+7  2024-10-04     2015      40,001-50,000      33     0.26  1518318
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     2015              1-999    5277     0.11   673724
+1  2024-09-27     2015        1,000-5,000    4971     1.69  9886244
+2  2024-09-27     2015       5,001-10,000     625     0.84  4914843
+3  2024-09-27     2015      10,001-15,000     201     0.44  2559642
+4  2024-09-27     2015      15,001-20,000     111     0.34  2030351
+5  2024-09-27     2015      20,001-30,000     103     0.45  2638459
+6  2024-09-27     2015      30,001-40,000      76     0.46  2688384
+7  2024-09-27     2015      40,001-50,000      32     0.25  1471318
+散戶減少
+revenus is positive
+current second test stock is 2103
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2103              1-999   36145     0.50   4193915
+1  2024-10-04     2103        1,000-5,000   26579     7.16  59186544
+2  2024-10-04     2103       5,001-10,000    6105     5.59  46219966
+3  2024-10-04     2103      10,001-15,000    2198     3.33  27547806
+4  2024-10-04     2103      15,001-20,000    1310     2.88  23851470
+5  2024-10-04     2103      20,001-30,000    1122     3.43  28341570
+6  2024-10-04     2103      30,001-40,000     506     2.18  18070454
+7  2024-10-04     2103      40,001-50,000     317     1.76  14598644
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2103              1-999   36170     0.50   4195620
+1  2024-09-27     2103        1,000-5,000   26644     7.19  59391910
+2  2024-09-27     2103       5,001-10,000    6101     5.59  46171210
+3  2024-09-27     2103      10,001-15,000    2217     3.36  27791492
+4  2024-09-27     2103      15,001-20,000    1318     2.90  24018469
+5  2024-09-27     2103      20,001-30,000    1134     3.46  28625460
+6  2024-09-27     2103      30,001-40,000     504     2.18  18011454
+7  2024-09-27     2103      40,001-50,000     317     1.76  14594644
+散戶減少
+revenus is positive
+current second test stock is 2115
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     2115              1-999    1162     0.19   203658
+1  2024-10-04     2115        1,000-5,000    1660     3.22  3362675
+2  2024-10-04     2115       5,001-10,000     362     2.41  2519539
+3  2024-10-04     2115      10,001-15,000     209     2.43  2545977
+4  2024-10-04     2115      15,001-20,000      82     1.35  1413172
+5  2024-10-04     2115      20,001-30,000      96     2.19  2286544
+6  2024-10-04     2115      30,001-40,000      56     1.82  1903834
+7  2024-10-04     2115      40,001-50,000      27     1.16  1216065
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     2115              1-999    1160     0.19   202477
+1  2024-09-27     2115        1,000-5,000    1660     3.21  3353257
+2  2024-09-27     2115       5,001-10,000     362     2.40  2514421
+3  2024-09-27     2115      10,001-15,000     212     2.46  2576730
+4  2024-09-27     2115      15,001-20,000      79     1.29  1356136
+5  2024-09-27     2115      20,001-30,000      96     2.18  2282544
+6  2024-09-27     2115      30,001-40,000      57     1.85  1934834
+7  2024-09-27     2115      40,001-50,000      29     1.25  1307467
+散戶減少
+revenus is positive
+current second test stock is 2236
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     2236              1-999     763     0.19   100367
+1  2024-10-04     2236        1,000-5,000    1142     4.43  2298430
+2  2024-10-04     2236       5,001-10,000     169     2.46  1276955
+3  2024-10-04     2236      10,001-15,000      40     0.99   515369
+4  2024-10-04     2236      15,001-20,000      33     1.16   602113
+5  2024-10-04     2236      20,001-30,000      31     1.49   773839
+6  2024-10-04     2236      30,001-40,000      19     1.28   667048
+7  2024-10-04     2236      40,001-50,000      13     1.12   580618
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     2236              1-999     774     0.19   103064
+1  2024-09-27     2236        1,000-5,000    1129     4.36  2260963
+2  2024-09-27     2236       5,001-10,000     164     2.41  1251060
+3  2024-09-27     2236      10,001-15,000      38     0.93   486545
+4  2024-09-27     2236      15,001-20,000      33     1.16   603113
+5  2024-09-27     2236      20,001-30,000      31     1.50   780270
+6  2024-09-27     2236      30,001-40,000      21     1.43   740913
+7  2024-09-27     2236      40,001-50,000      10     0.87   451834
+散戶增加
+current second test stock is 2347
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2347              1-999   14647     0.20   3423722
+1  2024-10-04     2347        1,000-5,000   26651     3.23  53920892
+2  2024-10-04     2347       5,001-10,000    3792     1.70  28381434
+3  2024-10-04     2347      10,001-15,000    1267     0.94  15765740
+4  2024-10-04     2347      15,001-20,000     643     0.68  11390877
+5  2024-10-04     2347      20,001-30,000     600     0.89  14861883
+6  2024-10-04     2347      30,001-40,000     273     0.57   9614698
+7  2024-10-04     2347      40,001-50,000     184     0.50   8378400
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2347              1-999   14700     0.20   3439043
+1  2024-09-27     2347        1,000-5,000   26808     3.24  54084699
+2  2024-09-27     2347       5,001-10,000    3799     1.70  28478123
+3  2024-09-27     2347      10,001-15,000    1255     0.93  15607272
+4  2024-09-27     2347      15,001-20,000     643     0.68  11394989
+5  2024-09-27     2347      20,001-30,000     602     0.89  14943941
+6  2024-09-27     2347      30,001-40,000     262     0.55   9235333
+7  2024-09-27     2347      40,001-50,000     178     0.48   8098276
+散戶增加
+current second test stock is 2362
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2362              1-999   14537     0.48   3092420
+1  2024-10-04     2362        1,000-5,000   18603     5.68  35915514
+2  2024-10-04     2362       5,001-10,000    2281     2.85  18054400
+3  2024-10-04     2362      10,001-15,000     601     1.20   7587210
+4  2024-10-04     2362      15,001-20,000     414     1.22   7729684
+5  2024-10-04     2362      20,001-30,000     315     1.26   8027555
+6  2024-10-04     2362      30,001-40,000     136     0.76   4841717
+7  2024-10-04     2362      40,001-50,000      96     0.71   4508271
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2362              1-999   14567     0.49   3118343
+1  2024-09-27     2362        1,000-5,000   19879     6.08  38467962
+2  2024-09-27     2362       5,001-10,000    2364     2.96  18770828
+3  2024-09-27     2362      10,001-15,000     655     1.31   8293896
+4  2024-09-27     2362      15,001-20,000     411     1.21   7651029
+5  2024-09-27     2362      20,001-30,000     334     1.33   8469521
+6  2024-09-27     2362      30,001-40,000     138     0.77   4894631
+7  2024-09-27     2362      40,001-50,000     108     0.80   5059506
+散戶減少
+revenus is positive
+current second test stock is 2402
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2402              1-999   26922     0.45   1402018
+1  2024-10-04     2402        1,000-5,000   29686    19.28  59318266
+2  2024-10-04     2402       5,001-10,000    3759     9.90  30460922
+3  2024-10-04     2402      10,001-15,000     929     3.88  11955367
+4  2024-10-04     2402      15,001-20,000     679     4.14  12752196
+5  2024-10-04     2402      20,001-30,000     460     3.89  11968638
+6  2024-10-04     2402      30,001-40,000     230     2.68   8264337
+7  2024-10-04     2402      40,001-50,000     156     2.37   7290754
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2402              1-999   26970     0.45   1407845
+1  2024-09-27     2402        1,000-5,000   30252    19.61  60309924
+2  2024-09-27     2402       5,001-10,000    3815    10.06  30948463
+3  2024-09-27     2402      10,001-15,000     937     3.92  12075588
+4  2024-09-27     2402      15,001-20,000     669     4.08  12574070
+5  2024-09-27     2402      20,001-30,000     462     3.91  12028307
+6  2024-09-27     2402      30,001-40,000     225     2.63   8089337
+7  2024-09-27     2402      40,001-50,000     158     2.40   7403754
+散戶減少
+revenus is positive
+current second test stock is 2419
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2419              1-999   16196     0.56   1823746
+1  2024-10-04     2419        1,000-5,000   17786    11.12  35741972
+2  2024-10-04     2419       5,001-10,000    2214     5.52  17764533
+3  2024-10-04     2419      10,001-15,000     521     2.06   6640721
+4  2024-10-04     2419      15,001-20,000     364     2.09   6738259
+5  2024-10-04     2419      20,001-30,000     249     1.97   6334128
+6  2024-10-04     2419      30,001-40,000     108     1.20   3872412
+7  2024-10-04     2419      40,001-50,000      83     1.20   3861539
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2419              1-999   16196     0.56   1825150
+1  2024-09-27     2419        1,000-5,000   17869    11.16  35866657
+2  2024-09-27     2419       5,001-10,000    2219     5.54  17813875
+3  2024-09-27     2419      10,001-15,000     518     2.05   6608834
+4  2024-09-27     2419      15,001-20,000     367     2.12   6814100
+5  2024-09-27     2419      20,001-30,000     246     1.94   6264128
+6  2024-09-27     2419      30,001-40,000     110     1.22   3944412
+7  2024-09-27     2419      40,001-50,000      86     1.24   3990560
+散戶減少
+revenus is positive
+current second test stock is 2426
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2426              1-999   48320     1.08   3258933
+1  2024-10-04     2426        1,000-5,000   20845    15.11  45439626
+2  2024-10-04     2426       5,001-10,000    3376     9.04  27187803
+3  2024-10-04     2426      10,001-15,000     870     3.70  11128719
+4  2024-10-04     2426      15,001-20,000     657     4.08  12279185
+5  2024-10-04     2426      20,001-30,000     461     3.94  11857376
+6  2024-10-04     2426      30,001-40,000     205     2.44   7361067
+7  2024-10-04     2426      40,001-50,000     131     2.04   6151908
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2426              1-999   48307     1.08   3260930
+1  2024-09-27     2426        1,000-5,000   21178    15.35  46147263
+2  2024-09-27     2426       5,001-10,000    3427     9.19  27648478
+3  2024-09-27     2426      10,001-15,000     877     3.73  11233910
+4  2024-09-27     2426      15,001-20,000     672     4.17  12564636
+5  2024-09-27     2426      20,001-30,000     466     3.99  11999270
+6  2024-09-27     2426      30,001-40,000     203     2.41   7261307
+7  2024-09-27     2426      40,001-50,000     137     2.13   6425908
+散戶減少
+revenus is positive
+current second test stock is 2467
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2467              1-999   24866     0.81   1284335
+1  2024-10-04     2467        1,000-5,000   10037    10.70  16783244
+2  2024-10-04     2467       5,001-10,000     793     3.55   5574420
+3  2024-10-04     2467      10,001-15,000     321     2.42   3797852
+4  2024-10-04     2467      15,001-20,000     134     1.50   2361030
+5  2024-10-04     2467      20,001-30,000     134     2.10   3293848
+6  2024-10-04     2467      30,001-40,000      69     1.51   2378986
+7  2024-10-04     2467      40,001-50,000      30     0.85   1344212
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2467              1-999   24852     0.81   1278740
+1  2024-09-27     2467        1,000-5,000    9895    10.52  16490785
+2  2024-09-27     2467       5,001-10,000     796     3.58   5623576
+3  2024-09-27     2467      10,001-15,000     311     2.34   3677500
+4  2024-09-27     2467      15,001-20,000     130     1.46   2296572
+5  2024-09-27     2467      20,001-30,000     133     2.08   3269848
+6  2024-09-27     2467      30,001-40,000      69     1.52   2385985
+7  2024-09-27     2467      40,001-50,000      28     0.79   1243044
+散戶增加
+current second test stock is 2480
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2480              1-999   22335     1.78   1899732
+1  2024-10-04     2480        1,000-5,000    9487    17.91  19059298
+2  2024-10-04     2480       5,001-10,000    1226     8.76   9325019
+3  2024-10-04     2480      10,001-15,000     387     4.56   4859727
+4  2024-10-04     2480      15,001-20,000     234     3.90   4157444
+5  2024-10-04     2480      20,001-30,000     199     4.65   4954872
+6  2024-10-04     2480      30,001-40,000      88     2.93   3122950
+7  2024-10-04     2480      40,001-50,000      58     2.50   2659419
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2480              1-999   22347     1.79   1907614
+1  2024-09-27     2480        1,000-5,000    9521    17.98  19124747
+2  2024-09-27     2480       5,001-10,000    1225     8.75   9311041
+3  2024-09-27     2480      10,001-15,000     386     4.55   4845827
+4  2024-09-27     2480      15,001-20,000     236     3.94   4192417
+5  2024-09-27     2480      20,001-30,000     199     4.66   4958872
+6  2024-09-27     2480      30,001-40,000      88     2.93   3119950
+7  2024-09-27     2480      40,001-50,000      59     2.54   2706335
+散戶減少
+revenus is positive
+current second test stock is 2488
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2488              1-999   21327     0.52    421152
+1  2024-10-04     2488        1,000-5,000    5360    13.72  10983474
+2  2024-10-04     2488       5,001-10,000     775     7.74   6194894
+3  2024-10-04     2488      10,001-15,000     194     3.15   2523785
+4  2024-10-04     2488      15,001-20,000     123     2.82   2256331
+5  2024-10-04     2488      20,001-30,000     117     3.77   3018361
+6  2024-10-04     2488      30,001-40,000      50     2.20   1764163
+7  2024-10-04     2488      40,001-50,000      26     1.52   1222993
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2488              1-999   21319     0.53    424151
+1  2024-09-27     2488        1,000-5,000    5380    13.78  11027930
+2  2024-09-27     2488       5,001-10,000     769     7.67   6140924
+3  2024-09-27     2488      10,001-15,000     188     3.04   2439785
+4  2024-09-27     2488      15,001-20,000     125     2.86   2294331
+5  2024-09-27     2488      20,001-30,000     116     3.71   2971423
+6  2024-09-27     2488      30,001-40,000      50     2.22   1776101
+7  2024-09-27     2488      40,001-50,000      25     1.47   1179993
+散戶增加
+current second test stock is 2493
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2493              1-999   23066     0.50    577993
+1  2024-10-04     2493        1,000-5,000    8245    14.81  16955159
+2  2024-10-04     2493       5,001-10,000    1173     8.09   9264555
+3  2024-10-04     2493      10,001-15,000     366     4.13   4735567
+4  2024-10-04     2493      15,001-20,000     208     3.33   3819068
+5  2024-10-04     2493      20,001-30,000     194     4.32   4944358
+6  2024-10-04     2493      30,001-40,000      96     3.02   3461058
+7  2024-10-04     2493      40,001-50,000      64     2.58   2959431
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2493              1-999   23057     0.50    577108
+1  2024-09-27     2493        1,000-5,000    8231    14.77  16907770
+2  2024-09-27     2493       5,001-10,000    1178     8.12   9298231
+3  2024-09-27     2493      10,001-15,000     364     4.10   4702567
+4  2024-09-27     2493      15,001-20,000     209     3.35   3839068
+5  2024-09-27     2493      20,001-30,000     194     4.33   4961358
+6  2024-09-27     2493      30,001-40,000      94     2.96   3389058
+7  2024-09-27     2493      40,001-50,000      65     2.61   2988431
+散戶增加
+current second test stock is 2498
+-----
+         date stock_id HoldingSharesLevel  people  percent       unit
+0  2024-10-04     2498              1-999   62086     0.48    4008618
+1  2024-10-04     2498        1,000-5,000   72486    16.82  140104664
+2  2024-10-04     2498       5,001-10,000    8542     8.04   66982869
+3  2024-10-04     2498      10,001-15,000    2533     3.91   32634773
+4  2024-10-04     2498      15,001-20,000    1606     3.56   29714346
+5  2024-10-04     2498      20,001-30,000    1279     3.93   32774463
+6  2024-10-04     2498      30,001-40,000     679     2.93   24450294
+7  2024-10-04     2498      40,001-50,000     390     2.17   18073325
+         date stock_id HoldingSharesLevel  people  percent       unit
+0  2024-09-27     2498              1-999   62155     0.48    4046279
+1  2024-09-27     2498        1,000-5,000   74581    17.44  145232879
+2  2024-09-27     2498       5,001-10,000    8990     8.46   70470493
+3  2024-09-27     2498      10,001-15,000    2674     4.12   34351202
+4  2024-09-27     2498      15,001-20,000    1677     3.72   30999586
+5  2024-09-27     2498      20,001-30,000    1354     4.16   34691950
+6  2024-09-27     2498      30,001-40,000     704     3.03   25300661
+7  2024-09-27     2498      40,001-50,000     408     2.27   18913240
+散戶減少
+current second test stock is 2727
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2727              1-999   83837     3.10   2625231
+1  2024-10-04     2727        1,000-5,000   12074    23.90  20186889
+2  2024-10-04     2727       5,001-10,000     783     6.89   5820318
+3  2024-10-04     2727      10,001-15,000     245     3.64   3080313
+4  2024-10-04     2727      15,001-20,000     135     2.89   2447137
+5  2024-10-04     2727      20,001-30,000     103     3.03   2566931
+6  2024-10-04     2727      30,001-40,000      62     2.59   2193534
+7  2024-10-04     2727      40,001-50,000      36     1.94   1645617
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2727              1-999   83817     3.12   2635783
+1  2024-09-27     2727        1,000-5,000   12133    24.03  20300618
+2  2024-09-27     2727       5,001-10,000     787     6.91   5843978
+3  2024-09-27     2727      10,001-15,000     246     3.66   3096838
+4  2024-09-27     2727      15,001-20,000     138     2.96   2500918
+5  2024-09-27     2727      20,001-30,000     100     2.93   2481761
+6  2024-09-27     2727      30,001-40,000      63     2.63   2226289
+7  2024-09-27     2727      40,001-50,000      34     1.83   1546921
+散戶減少
+revenus is positive
+current second test stock is 2850
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     2850              1-999    5327     0.31   1002545
+1  2024-10-04     2850        1,000-5,000    8710     5.81  18384935
+2  2024-10-04     2850       5,001-10,000    1485     3.66  11588425
+3  2024-10-04     2850      10,001-15,000     479     1.91   6039040
+4  2024-10-04     2850      15,001-20,000     309     1.79   5674499
+5  2024-10-04     2850      20,001-30,000     292     2.34   7410291
+6  2024-10-04     2850      30,001-40,000     133     1.50   4741140
+7  2024-10-04     2850      40,001-50,000     109     1.58   4995455
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     2850              1-999    5335     0.31   1003432
+1  2024-09-27     2850        1,000-5,000    8714     5.82  18398121
+2  2024-09-27     2850       5,001-10,000    1488     3.67  11606685
+3  2024-09-27     2850      10,001-15,000     481     1.91   6065028
+4  2024-09-27     2850      15,001-20,000     312     1.81   5727420
+5  2024-09-27     2850      20,001-30,000     291     2.33   7385291
+6  2024-09-27     2850      30,001-40,000     135     1.52   4811140
+7  2024-09-27     2850      40,001-50,000     107     1.55   4914455
+散戶減少
+current second test stock is 2882
+-----
+         date stock_id HoldingSharesLevel  people  percent       unit
+0  2024-10-04     2882              1-999  135845     0.23   34733498
+1  2024-10-04     2882        1,000-5,000  218925     3.18  467577930
+2  2024-10-04     2882       5,001-10,000   45767     2.24  329172163
+3  2024-10-04     2882      10,001-15,000   18082     1.50  220066089
+4  2024-10-04     2882      15,001-20,000    8667     1.03  152295404
+5  2024-10-04     2882      20,001-30,000    9170     1.52  223535775
+6  2024-10-04     2882      30,001-40,000    4279     1.00  147903710
+7  2024-10-04     2882      40,001-50,000    2588     0.79  116472909
+         date stock_id HoldingSharesLevel  people  percent       unit
+0  2024-09-27     2882              1-999  135948     0.23   34790952
+1  2024-09-27     2882        1,000-5,000  219070     3.18  467906167
+2  2024-09-27     2882       5,001-10,000   45796     2.24  329483981
+3  2024-09-27     2882      10,001-15,000   18113     1.50  220496757
+4  2024-09-27     2882      15,001-20,000    8675     1.03  152472500
+5  2024-09-27     2882      20,001-30,000    9161     1.52  223257605
+6  2024-09-27     2882      30,001-40,000    4288     1.01  148205990
+7  2024-09-27     2882      40,001-50,000    2623     0.80  118155531
+散戶減少
+current second test stock is 3051
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     3051              1-999   36260     1.47   2500549
+1  2024-10-04     3051        1,000-5,000    9808    11.62  19764609
+2  2024-10-04     3051       5,001-10,000    1573     7.01  11919270
+3  2024-10-04     3051      10,001-15,000     493     3.70   6303020
+4  2024-10-04     3051      15,001-20,000     330     3.52   5990651
+5  2024-10-04     3051      20,001-30,000     300     4.52   7694392
+6  2024-10-04     3051      30,001-40,000     144     2.98   5077044
+7  2024-10-04     3051      40,001-50,000      73     1.98   3378611
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     3051              1-999   36244     1.47   2502203
+1  2024-09-27     3051        1,000-5,000    9843    11.66  19824655
+2  2024-09-27     3051       5,001-10,000    1581     7.05  11986751
+3  2024-09-27     3051      10,001-15,000     493     3.71   6311190
+4  2024-09-27     3051      15,001-20,000     328     3.50   5957824
+5  2024-09-27     3051      20,001-30,000     300     4.53   7701668
+6  2024-09-27     3051      30,001-40,000     142     2.94   5004044
+7  2024-09-27     3051      40,001-50,000      74     2.01   3419611
+散戶減少
+current second test stock is 3209
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     3209              1-999   27809     0.63   1483971
+1  2024-10-04     3209        1,000-5,000   15679    14.45  33631403
+2  2024-10-04     3209       5,001-10,000    2909     9.37  21809855
+3  2024-10-04     3209      10,001-15,000     933     4.98  11592574
+4  2024-10-04     3209      15,001-20,000     501     3.84   8951812
+5  2024-10-04     3209      20,001-30,000     497     5.31  12365248
+6  2024-10-04     3209      30,001-40,000     211     3.17   7377834
+7  2024-10-04     3209      40,001-50,000     133     2.61   6088104
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     3209              1-999   27864     0.64   1504681
+1  2024-09-27     3209        1,000-5,000   15778    14.52  33791619
+2  2024-09-27     3209       5,001-10,000    2906     9.35  21778890
+3  2024-09-27     3209      10,001-15,000     935     4.99  11620970
+4  2024-09-27     3209      15,001-20,000     496     3.81   8875265
+5  2024-09-27     3209      20,001-30,000     499     5.32  12399224
+6  2024-09-27     3209      30,001-40,000     211     3.18   7401674
+7  2024-09-27     3209      40,001-50,000     134     2.64   6154431
+散戶減少
+revenus is positive
+current second test stock is 3380
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     3380              1-999   14210     0.31   1709560
+1  2024-10-04     3380        1,000-5,000   25375     9.78  52989699
+2  2024-10-04     3380       5,001-10,000    3601     5.47  29678342
+3  2024-10-04     3380      10,001-15,000     839     2.00  10873496
+4  2024-10-04     3380      15,001-20,000     614     2.13  11562438
+5  2024-10-04     3380      20,001-30,000     445     2.14  11634685
+6  2024-10-04     3380      30,001-40,000     192     1.28   6951643
+7  2024-10-04     3380      40,001-50,000     157     1.36   7403118
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     3380              1-999   14208     0.31   1704855
+1  2024-09-27     3380        1,000-5,000   25528     9.83  53279736
+2  2024-09-27     3380       5,001-10,000    3615     5.49  29764356
+3  2024-09-27     3380      10,001-15,000     849     2.03  11010330
+4  2024-09-27     3380      15,001-20,000     621     2.15  11690392
+5  2024-09-27     3380      20,001-30,000     451     2.18  11810485
+6  2024-09-27     3380      30,001-40,000     191     1.27   6920643
+7  2024-09-27     3380      40,001-50,000     158     1.37   7450764
+散戶減少
+current second test stock is 3447
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     3447              1-999     534     0.08    67496
+1  2024-10-04     3447        1,000-5,000    2324     5.92  4578926
+2  2024-10-04     3447       5,001-10,000     297     3.07  2378969
+3  2024-10-04     3447      10,001-15,000      97     1.60  1243274
+4  2024-10-04     3447      15,001-20,000      64     1.50  1165350
+5  2024-10-04     3447      20,001-30,000      63     2.09  1619510
+6  2024-10-04     3447      30,001-40,000      31     1.41  1096741
+7  2024-10-04     3447      40,001-50,000      16     0.96   749577
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     3447              1-999     532     0.08    66486
+1  2024-09-27     3447        1,000-5,000    2338     5.97  4622936
+2  2024-09-27     3447       5,001-10,000     299     3.09  2389969
+3  2024-09-27     3447      10,001-15,000      98     1.63  1260274
+4  2024-09-27     3447      15,001-20,000      60     1.41  1093350
+5  2024-09-27     3447      20,001-30,000      66     2.19  1693510
+6  2024-09-27     3447      30,001-40,000      30     1.37  1061741
+7  2024-09-27     3447      40,001-50,000      18     1.09   848577
+散戶減少
+revenus is positive
+current second test stock is 3494
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     3494              1-999   17124     0.56   806701
+1  2024-10-04     3494        1,000-5,000    4008     6.43  9261222
+2  2024-10-04     3494       5,001-10,000    1033     5.59  8051123
+3  2024-10-04     3494      10,001-15,000     396     3.47  5002435
+4  2024-10-04     3494      15,001-20,000     256     3.26  4707208
+5  2024-10-04     3494      20,001-30,000     244     4.21  6075715
+6  2024-10-04     3494      30,001-40,000     129     3.16  4559134
+7  2024-10-04     3494      40,001-50,000      90     2.86  4121827
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     3494              1-999   17124     0.56   807190
+1  2024-09-27     3494        1,000-5,000    4027     6.47  9325541
+2  2024-09-27     3494       5,001-10,000    1036     5.61  8085124
+3  2024-09-27     3494      10,001-15,000     397     3.48  5017362
+4  2024-09-27     3494      15,001-20,000     257     3.28  4733775
+5  2024-09-27     3494      20,001-30,000     244     4.21  6064377
+6  2024-09-27     3494      30,001-40,000     130     3.19  4596134
+7  2024-09-27     3494      40,001-50,000      90     2.86  4121827
+散戶減少
+revenus is positive
+current second test stock is 3533
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     3533              1-999    6518     0.47   533895
+1  2024-10-04     3533        1,000-5,000    1752     2.66  2996168
+2  2024-10-04     3533       5,001-10,000     205     1.34  1513050
+3  2024-10-04     3533      10,001-15,000      96     1.10  1238427
+4  2024-10-04     3533      15,001-20,000      67     1.03  1168529
+5  2024-10-04     3533      20,001-30,000      98     2.17  2447654
+6  2024-10-04     3533      30,001-40,000      48     1.48  1668748
+7  2024-10-04     3533      40,001-50,000      29     1.15  1303458
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     3533              1-999    6317     0.46   525617
+1  2024-09-27     3533        1,000-5,000    1719     2.61  2947755
+2  2024-09-27     3533       5,001-10,000     203     1.33  1505158
+3  2024-09-27     3533      10,001-15,000      98     1.12  1263819
+4  2024-09-27     3533      15,001-20,000      72     1.11  1254019
+5  2024-09-27     3533      20,001-30,000      92     2.03  2289810
+6  2024-09-27     3533      30,001-40,000      51     1.56  1763423
+7  2024-09-27     3533      40,001-50,000      37     1.47  1659726
+散戶減少
+revenus is positive
+current second test stock is 3583
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     3583              1-999    8481     1.37   1103459
+1  2024-10-04     3583        1,000-5,000    9579    18.51  14873823
+2  2024-10-04     3583       5,001-10,000     400     3.89   3130941
+3  2024-10-04     3583      10,001-15,000     106     1.71   1378827
+4  2024-10-04     3583      15,001-20,000      53     1.22    981339
+5  2024-10-04     3583      20,001-30,000      52     1.68   1352823
+6  2024-10-04     3583      30,001-40,000      25     1.10    885171
+7  2024-10-04     3583      40,001-50,000      17     0.95    763191
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     3583              1-999    8518     1.36   1099975
+1  2024-09-27     3583        1,000-5,000    9481    18.11  14551368
+2  2024-09-27     3583       5,001-10,000     405     3.97   3192510
+3  2024-09-27     3583      10,001-15,000     103     1.67   1343827
+4  2024-09-27     3583      15,001-20,000      52     1.20    964339
+5  2024-09-27     3583      20,001-30,000      49     1.57   1263323
+6  2024-09-27     3583      30,001-40,000      26     1.15    927171
+7  2024-09-27     3583      40,001-50,000      18     0.99    798191
+散戶增加
+current second test stock is 3653
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     3653              1-999    6261     0.40   575726
+1  2024-10-04     3653        1,000-5,000    1413     1.69  2419097
+2  2024-10-04     3653       5,001-10,000     147     0.73  1049563
+3  2024-10-04     3653      10,001-15,000      73     0.62   886869
+4  2024-10-04     3653      15,001-20,000      55     0.69   993440
+5  2024-10-04     3653      20,001-30,000      44     0.75  1082833
+6  2024-10-04     3653      30,001-40,000      41     1.03  1475468
+7  2024-10-04     3653      40,001-50,000      30     0.95  1365095
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     3653              1-999    6225     0.40   575287
+1  2024-09-27     3653        1,000-5,000    1404     1.67  2393821
+2  2024-09-27     3653       5,001-10,000     148     0.73  1053657
+3  2024-09-27     3653      10,001-15,000      66     0.56   807991
+4  2024-09-27     3653      15,001-20,000      56     0.70  1009940
+5  2024-09-27     3653      20,001-30,000      49     0.84  1201089
+6  2024-09-27     3653      30,001-40,000      44     1.10  1576187
+7  2024-09-27     3653      40,001-50,000      25     0.80  1150462
+散戶增加
+current second test stock is 4190
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     4190              1-999   12688     1.00   611585
+1  2024-10-04     4190        1,000-5,000    3393    10.25  6250573
+2  2024-10-04     4190       5,001-10,000     333     4.15  2535420
+3  2024-10-04     4190      10,001-15,000      82     1.72  1053952
+4  2024-10-04     4190      15,001-20,000      57     1.71  1047000
+5  2024-10-04     4190      20,001-30,000      64     2.69  1643610
+6  2024-10-04     4190      30,001-40,000      20     1.16   708111
+7  2024-10-04     4190      40,001-50,000      17     1.29   786350
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     4190              1-999   12659     0.98   602317
+1  2024-09-27     4190        1,000-5,000    3383    10.23  6240278
+2  2024-09-27     4190       5,001-10,000     334     4.17  2545420
+3  2024-09-27     4190      10,001-15,000      79     1.65  1009633
+4  2024-09-27     4190      15,001-20,000      59     1.76  1074882
+5  2024-09-27     4190      20,001-30,000      63     2.62  1599610
+6  2024-09-27     4190      30,001-40,000      21     1.21   738850
+7  2024-09-27     4190      40,001-50,000      15     1.12   683350
+散戶增加
+current second test stock is 4440
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     4440              1-999     648     0.15   102588
+1  2024-10-04     4440        1,000-5,000    2667     8.25  5581576
+2  2024-10-04     4440       5,001-10,000     436     5.17  3500137
+3  2024-10-04     4440      10,001-15,000     125     2.35  1593014
+4  2024-10-04     4440      15,001-20,000      93     2.52  1705530
+5  2024-10-04     4440      20,001-30,000      90     3.40  2299778
+6  2024-10-04     4440      30,001-40,000      38     2.02  1369088
+7  2024-10-04     4440      40,001-50,000      30     2.07  1401820
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     4440              1-999     647     0.15   103720
+1  2024-09-27     4440        1,000-5,000    2681     8.30  5615544
+2  2024-09-27     4440       5,001-10,000     429     5.10  3447527
+3  2024-09-27     4440      10,001-15,000     125     2.35  1595014
+4  2024-09-27     4440      15,001-20,000      93     2.51  1700140
+5  2024-09-27     4440      20,001-30,000      89     3.36  2274678
+6  2024-09-27     4440      30,001-40,000      39     2.08  1411088
+7  2024-09-27     4440      40,001-50,000      31     2.13  1445820
+散戶減少
+current second test stock is 4557
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     4557              1-999   13423     0.25   106310
+1  2024-10-04     4557        1,000-5,000    1397     6.20  2606300
+2  2024-10-04     4557       5,001-10,000     199     3.68  1548126
+3  2024-10-04     4557      10,001-15,000      78     2.32   977065
+4  2024-10-04     4557      15,001-20,000      50     2.22   932489
+5  2024-10-04     4557      20,001-30,000      48     2.90  1217347
+6  2024-10-04     4557      30,001-40,000      23     1.87   785741
+7  2024-10-04     4557      40,001-50,000      18     1.92   809891
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     4557              1-999   13421     0.25   106585
+1  2024-09-27     4557        1,000-5,000    1435     6.36  2672232
+2  2024-09-27     4557       5,001-10,000     197     3.64  1531477
+3  2024-09-27     4557      10,001-15,000      82     2.44  1025507
+4  2024-09-27     4557      15,001-20,000      51     2.26   952369
+5  2024-09-27     4557      20,001-30,000      43     2.60  1093467
+6  2024-09-27     4557      30,001-40,000      24     1.96   824741
+7  2024-09-27     4557      40,001-50,000      19     2.05   863171
+散戶減少
+revenus is positive
+current second test stock is 4807
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     4807              1-999   10487     0.09    34743
+1  2024-10-04     4807        1,000-5,000     855     4.30  1651948
+2  2024-10-04     4807       5,001-10,000     126     2.61  1002609
+3  2024-10-04     4807      10,001-15,000      26     0.87   336214
+4  2024-10-04     4807      15,001-20,000      13     0.63   242000
+5  2024-10-04     4807      20,001-30,000      22     1.38   531842
+6  2024-10-04     4807      30,001-40,000      19     1.73   668000
+7  2024-10-04     4807      40,001-50,000       8     0.98   379000
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     4807              1-999   10489     0.09    35221
+1  2024-09-27     4807        1,000-5,000     843     4.31  1655469
+2  2024-09-27     4807       5,001-10,000     124     2.60   998609
+3  2024-09-27     4807      10,001-15,000      28     0.95   365214
+4  2024-09-27     4807      15,001-20,000      12     0.58   224000
+5  2024-09-27     4807      20,001-30,000      24     1.55   596021
+6  2024-09-27     4807      30,001-40,000      18     1.64   629821
+7  2024-09-27     4807      40,001-50,000      10     1.21   467000
+散戶減少
+revenus is positive
+current second test stock is 4930
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     4930              1-999   25957     2.83  2267701
+1  2024-10-04     4930        1,000-5,000    4009     9.81  7852491
+2  2024-10-04     4930       5,001-10,000     486     4.40  3526572
+3  2024-10-04     4930      10,001-15,000     129     2.01  1615711
+4  2024-10-04     4930      15,001-20,000      70     1.59  1275783
+5  2024-10-04     4930      20,001-30,000      73     2.31  1853436
+6  2024-10-04     4930      30,001-40,000      28     1.20   966683
+7  2024-10-04     4930      40,001-50,000      12     0.69   553670
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     4930              1-999   25974     2.83  2271728
+1  2024-09-27     4930        1,000-5,000    4002     9.78  7824351
+2  2024-09-27     4930       5,001-10,000     487     4.40  3524053
+3  2024-09-27     4930      10,001-15,000     130     2.02  1617224
+4  2024-09-27     4930      15,001-20,000      70     1.60  1280783
+5  2024-09-27     4930      20,001-30,000      73     2.31  1850436
+6  2024-09-27     4930      30,001-40,000      30     1.30  1041683
+7  2024-09-27     4930      40,001-50,000      11     0.61   494670
+散戶減少
+revenus is positive
+current second test stock is 4935
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     4935              1-999     933     0.11    154108
+1  2024-10-04     4935        1,000-5,000    6899    10.58  13645203
+2  2024-10-04     4935       5,001-10,000     813     4.95   6387049
+3  2024-10-04     4935      10,001-15,000     250     2.53   3266350
+4  2024-10-04     4935      15,001-20,000     130     1.84   2379883
+5  2024-10-04     4935      20,001-30,000     120     2.38   3072672
+6  2024-10-04     4935      30,001-40,000      65     1.79   2315701
+7  2024-10-04     4935      40,001-50,000      38     1.35   1742314
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     4935              1-999     943     0.11    153108
+1  2024-09-27     4935        1,000-5,000    6933    10.64  13712180
+2  2024-09-27     4935       5,001-10,000     818     4.99   6437049
+3  2024-09-27     4935      10,001-15,000     252     2.56   3299350
+4  2024-09-27     4935      15,001-20,000     132     1.87   2411883
+5  2024-09-27     4935      20,001-30,000     117     2.33   3004672
+6  2024-09-27     4935      30,001-40,000      62     1.70   2200592
+7  2024-09-27     4935      40,001-50,000      42     1.48   1919314
+散戶減少
+revenus is positive
+current second test stock is 5284
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     5284              1-999    1979     0.64   309919
+1  2024-10-04     5284        1,000-5,000    3196    12.78  6128511
+2  2024-10-04     5284       5,001-10,000     357     6.01  2881882
+3  2024-10-04     5284      10,001-15,000      94     2.48  1190678
+4  2024-10-04     5284      15,001-20,000      47     1.78   854085
+5  2024-10-04     5284      20,001-30,000      74     3.98  1909659
+6  2024-10-04     5284      30,001-40,000      32     2.30  1103395
+7  2024-10-04     5284      40,001-50,000      23     2.25  1081757
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     5284              1-999    1998     0.65   314695
+1  2024-09-27     5284        1,000-5,000    3236    12.92  6195747
+2  2024-09-27     5284       5,001-10,000     347     5.82  2793871
+3  2024-09-27     5284      10,001-15,000      94     2.49  1195678
+4  2024-09-27     5284      15,001-20,000      48     1.82   874085
+5  2024-09-27     5284      20,001-30,000      76     4.11  1970659
+6  2024-09-27     5284      30,001-40,000      30     2.16  1037395
+7  2024-09-27     5284      40,001-50,000      21     2.05   986757
+散戶增加
+current second test stock is 5288
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     5288              1-999     434     0.05    40209
+1  2024-10-04     5288        1,000-5,000     935     2.82  1907463
+2  2024-10-04     5288       5,001-10,000     143     1.63  1103981
+3  2024-10-04     5288      10,001-15,000      76     1.42   966584
+4  2024-10-04     5288      15,001-20,000      44     1.17   794870
+5  2024-10-04     5288      20,001-30,000      51     1.87  1267604
+6  2024-10-04     5288      30,001-40,000      27     1.39   944680
+7  2024-10-04     5288      40,001-50,000      20     1.35   915103
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     5288              1-999     420     0.05    39410
+1  2024-09-27     5288        1,000-5,000     918     2.77  1875515
+2  2024-09-27     5288       5,001-10,000     155     1.75  1184848
+3  2024-09-27     5288      10,001-15,000      70     1.32   895576
+4  2024-09-27     5288      15,001-20,000      41     1.09   741852
+5  2024-09-27     5288      20,001-30,000      55     2.00  1357662
+6  2024-09-27     5288      30,001-40,000      27     1.41   959061
+7  2024-09-27     5288      40,001-50,000      18     1.21   822103
+散戶增加
+current second test stock is 5292
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     5292              1-999    2098     0.84   322698
+1  2024-10-04     5292        1,000-5,000    1909     8.29  3175898
+2  2024-10-04     5292       5,001-10,000     177     3.33  1276012
+3  2024-10-04     5292      10,001-15,000      76     2.39   915779
+4  2024-10-04     5292      15,001-20,000      24     1.07   411233
+5  2024-10-04     5292      20,001-30,000      26     1.66   635540
+6  2024-10-04     5292      30,001-40,000      16     1.50   574962
+7  2024-10-04     5292      40,001-50,000      11     1.29   494030
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     5292              1-999    2088     0.84   321938
+1  2024-09-27     5292        1,000-5,000    1943     8.46  3242140
+2  2024-09-27     5292       5,001-10,000     172     3.20  1226291
+3  2024-09-27     5292      10,001-15,000      76     2.39   918469
+4  2024-09-27     5292      15,001-20,000      24     1.08   416282
+5  2024-09-27     5292      20,001-30,000      29     1.85   710190
+6  2024-09-27     5292      30,001-40,000      18     1.65   634812
+7  2024-09-27     5292      40,001-50,000      11     1.29   494030
+散戶減少
+current second test stock is 6216
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     6216              1-999   16430     0.36    352342
+1  2024-10-04     6216        1,000-5,000    6546    13.63  13034258
+2  2024-10-04     6216       5,001-10,000     986     8.19   7831804
+3  2024-10-04     6216      10,001-15,000     285     3.77   3604381
+4  2024-10-04     6216      15,001-20,000     201     3.92   3755441
+5  2024-10-04     6216      20,001-30,000     163     4.37   4182457
+6  2024-10-04     6216      30,001-40,000      69     2.64   2526168
+7  2024-10-04     6216      40,001-50,000      40     1.94   1856604
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     6216              1-999   16427     0.37    354125
+1  2024-09-27     6216        1,000-5,000    6576    13.68  13082896
+2  2024-09-27     6216       5,001-10,000     989     8.23   7869221
+3  2024-09-27     6216      10,001-15,000     287     3.78   3617003
+4  2024-09-27     6216      15,001-20,000     197     3.84   3671441
+5  2024-09-27     6216      20,001-30,000     158     4.23   4047457
+6  2024-09-27     6216      30,001-40,000      72     2.74   2626168
+7  2024-09-27     6216      40,001-50,000      39     1.89   1814604
+散戶增加
+current second test stock is 6415
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     6415              1-999    5950     0.17   694422
+1  2024-10-04     6415        1,000-5,000    3110     1.42  5515105
+2  2024-10-04     6415       5,001-10,000     287     0.57  2215302
+3  2024-10-04     6415      10,001-15,000     132     0.42  1656676
+4  2024-10-04     6415      15,001-20,000      80     0.36  1427495
+5  2024-10-04     6415      20,001-30,000     117     0.75  2915598
+6  2024-10-04     6415      30,001-40,000      62     0.57  2217096
+7  2024-10-04     6415      40,001-50,000      53     0.61  2383066
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     6415              1-999    6283     0.19   759410
+1  2024-09-27     6415        1,000-5,000    3474     1.59  6164415
+2  2024-09-27     6415       5,001-10,000     314     0.62  2428687
+3  2024-09-27     6415      10,001-15,000     132     0.42  1646293
+4  2024-09-27     6415      15,001-20,000      89     0.41  1599357
+5  2024-09-27     6415      20,001-30,000     114     0.73  2849098
+6  2024-09-27     6415      30,001-40,000      67     0.61  2384066
+7  2024-09-27     6415      40,001-50,000      54     0.63  2450989
+散戶減少
+revenus is positive
+current second test stock is 6581
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     6581              1-999     772     0.06    72497
+1  2024-10-04     6581        1,000-5,000    1483     2.46  2744559
+2  2024-10-04     6581       5,001-10,000     131     0.92  1030119
+3  2024-10-04     6581      10,001-15,000      61     0.70   789918
+4  2024-10-04     6581      15,001-20,000      28     0.45   509000
+5  2024-10-04     6581      20,001-30,000      37     0.86   964425
+6  2024-10-04     6581      30,001-40,000      17     0.52   588347
+7  2024-10-04     6581      40,001-50,000       9     0.37   416185
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     6581              1-999     775     0.06    73722
+1  2024-09-27     6581        1,000-5,000    1465     2.43  2710572
+2  2024-09-27     6581       5,001-10,000     132     0.92  1034659
+3  2024-09-27     6581      10,001-15,000      58     0.67   754140
+4  2024-09-27     6581      15,001-20,000      29     0.47   527347
+5  2024-09-27     6581      20,001-30,000      36     0.84   944425
+6  2024-09-27     6581      30,001-40,000      15     0.46   520000
+7  2024-09-27     6581      40,001-50,000       9     0.37   416185
+散戶增加
+current second test stock is 6805
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     6805              1-999    5691     0.76   525538
+1  2024-10-04     6805        1,000-5,000    2222     5.22  3583742
+2  2024-10-04     6805       5,001-10,000     165     1.86  1281778
+3  2024-10-04     6805      10,001-15,000      61     1.14   786764
+4  2024-10-04     6805      15,001-20,000      47     1.25   859673
+5  2024-10-04     6805      20,001-30,000      52     1.85  1273670
+6  2024-10-04     6805      30,001-40,000      24     1.22   841157
+7  2024-10-04     6805      40,001-50,000      19     1.24   853268
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     6805              1-999    6321     0.85   585775
+1  2024-09-27     6805        1,000-5,000    2623     6.13  4205939
+2  2024-09-27     6805       5,001-10,000     177     1.99  1368189
+3  2024-09-27     6805      10,001-15,000      67     1.23   848234
+4  2024-09-27     6805      15,001-20,000      52     1.37   943168
+5  2024-09-27     6805      20,001-30,000      52     1.88  1290379
+6  2024-09-27     6805      30,001-40,000      24     1.21   834774
+7  2024-09-27     6805      40,001-50,000      20     1.33   914280
+散戶減少
+revenus is positive
+current second test stock is 6807
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     6807              1-999     271     0.04    25319
+1  2024-10-04     6807        1,000-5,000     640     2.12  1146482
+2  2024-10-04     6807       5,001-10,000      75     1.13   614739
+3  2024-10-04     6807      10,001-15,000      27     0.64   348190
+4  2024-10-04     6807      15,001-20,000      20     0.70   379000
+5  2024-10-04     6807      20,001-30,000      23     1.11   603555
+6  2024-10-04     6807      30,001-40,000      11     0.70   381000
+7  2024-10-04     6807      40,001-50,000       9     0.76   412000
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     6807              1-999     270     0.04    25370
+1  2024-09-27     6807        1,000-5,000     642     2.11  1144431
+2  2024-09-27     6807       5,001-10,000      75     1.13   611739
+3  2024-09-27     6807      10,001-15,000      29     0.69   375190
+4  2024-09-27     6807      15,001-20,000      20     0.69   373000
+5  2024-09-27     6807      20,001-30,000      22     1.04   564555
+6  2024-09-27     6807      30,001-40,000      15     0.98   531000
+7  2024-09-27     6807      40,001-50,000       7     0.59   323000
+散戶減少
+revenus is positive
+current second test stock is 6937
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     6937              1-999    2320     0.44   299173
+1  2024-10-04     6937        1,000-5,000    3563     8.49  5732287
+2  2024-10-04     6937       5,001-10,000     184     2.15  1452709
+3  2024-10-04     6937      10,001-15,000      75     1.43   965530
+4  2024-10-04     6937      15,001-20,000      39     1.04   704603
+5  2024-10-04     6937      20,001-30,000      30     1.11   754214
+6  2024-10-04     6937      30,001-40,000      23     1.22   828032
+7  2024-10-04     6937      40,001-50,000      23     1.53  1036440
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     6937              1-999    2272     0.42   290152
+1  2024-09-27     6937        1,000-5,000    3448     8.25  5572060
+2  2024-09-27     6937       5,001-10,000     178     2.06  1394880
+3  2024-09-27     6937      10,001-15,000      73     1.39   941530
+4  2024-09-27     6937      15,001-20,000      35     0.95   641603
+5  2024-09-27     6937      20,001-30,000      34     1.27   860214
+6  2024-09-27     6937      30,001-40,000      25     1.33   897999
+7  2024-09-27     6937      40,001-50,000      19     1.28   870333
+散戶增加
+current second test stock is 8028
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     8028              1-999   27862     1.02   1769721
+1  2024-10-04     8028        1,000-5,000   22617    21.93  37863515
+2  2024-10-04     8028       5,001-10,000    1647     7.20  12430824
+3  2024-10-04     8028      10,001-15,000     504     3.69   6375312
+4  2024-10-04     8028      15,001-20,000     252     2.69   4651276
+5  2024-10-04     8028      20,001-30,000     238     3.51   6072649
+6  2024-10-04     8028      30,001-40,000     111     2.27   3928632
+7  2024-10-04     8028      40,001-50,000      67     1.80   3112802
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     8028              1-999   28045     1.04   1799657
+1  2024-09-27     8028        1,000-5,000   23378    22.73  39252541
+2  2024-09-27     8028       5,001-10,000    1704     7.50  12957583
+3  2024-09-27     8028      10,001-15,000     512     3.76   6492711
+4  2024-09-27     8028      15,001-20,000     244     2.58   4469976
+5  2024-09-27     8028      20,001-30,000     225     3.31   5724287
+6  2024-09-27     8028      30,001-40,000     117     2.39   4126219
+7  2024-09-27     8028      40,001-50,000      71     1.91   3310248
+散戶減少
+revenus is positive
+current second test stock is 8201
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     8201              1-999    9064     1.05   657432
+1  2024-10-04     8201        1,000-5,000    2919     9.96  6216128
+2  2024-10-04     8201       5,001-10,000     532     7.04  4391383
+3  2024-10-04     8201      10,001-15,000     147     3.05  1905185
+4  2024-10-04     8201      15,001-20,000      90     2.72  1697989
+5  2024-10-04     8201      20,001-30,000      84     3.52  2199884
+6  2024-10-04     8201      30,001-40,000      26     1.51   944701
+7  2024-10-04     8201      40,001-50,000      22     1.68  1050586
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     8201              1-999    9089     1.06   662963
+1  2024-09-27     8201        1,000-5,000    3005    10.27  6406980
+2  2024-09-27     8201       5,001-10,000     538     7.09  4426749
+3  2024-09-27     8201      10,001-15,000     147     3.06  1910470
+4  2024-09-27     8201      15,001-20,000      86     2.60  1624934
+5  2024-09-27     8201      20,001-30,000      82     3.37  2107884
+6  2024-09-27     8201      30,001-40,000      29     1.69  1055901
+7  2024-09-27     8201      40,001-50,000      21     1.60   999386
+散戶減少
+revenus is positive
+current second test stock is 8481
+-----
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-10-04     8481              1-999     431     0.08    54559
+1  2024-10-04     8481        1,000-5,000    1751     4.99  3328414
+2  2024-10-04     8481       5,001-10,000     217     2.57  1718117
+3  2024-10-04     8481      10,001-15,000      57     1.10   738361
+4  2024-10-04     8481      15,001-20,000      41     1.10   738500
+5  2024-10-04     8481      20,001-30,000      36     1.33   889266
+6  2024-10-04     8481      30,001-40,000      18     0.92   618444
+7  2024-10-04     8481      40,001-50,000      15     1.05   705809
+         date stock_id HoldingSharesLevel  people  percent     unit
+0  2024-09-27     8481              1-999     434     0.08    54579
+1  2024-09-27     8481        1,000-5,000    1760     5.02  3348364
+2  2024-09-27     8481       5,001-10,000     213     2.52  1684117
+3  2024-09-27     8481      10,001-15,000      59     1.14   764361
+4  2024-09-27     8481      15,001-20,000      40     1.08   722500
+5  2024-09-27     8481      20,001-30,000      37     1.37   916266
+6  2024-09-27     8481      30,001-40,000      19     0.99   665444
+7  2024-09-27     8481      40,001-50,000      13     0.93   621809
+散戶增加
+current second test stock is 9924
+-----
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-10-04     9924              1-999    3692     0.32    612672
+1  2024-10-04     9924        1,000-5,000    8728     9.75  18387750
+2  2024-10-04     9924       5,001-10,000    1293     5.36  10111859
+3  2024-10-04     9924      10,001-15,000     357     2.42   4572774
+4  2024-10-04     9924      15,001-20,000     209     2.07   3910655
+5  2024-10-04     9924      20,001-30,000     224     3.06   5782134
+6  2024-10-04     9924      30,001-40,000      86     1.64   3102018
+7  2024-10-04     9924      40,001-50,000      60     1.51   2847484
+         date stock_id HoldingSharesLevel  people  percent      unit
+0  2024-09-27     9924              1-999    3693     0.32    612433
+1  2024-09-27     9924        1,000-5,000    8776     9.80  18473837
+2  2024-09-27     9924       5,001-10,000    1302     5.40  10179293
+3  2024-09-27     9924      10,001-15,000     357     2.42   4574477
+4  2024-09-27     9924      15,001-20,000     213     2.11   3985655
+5  2024-09-27     9924      20,001-30,000     222     3.04   5747134
+6  2024-09-27     9924      30,001-40,000      87     1.66   3146018
+7  2024-09-27     9924      40,001-50,000      59     1.48   2794484
+散戶減少
+revenus is positive
+final result is ['1231', '1466', '2015', '2103', '2115', '2362', '2402', '2419', '2426', '2480', '2727', '3209', '3447', '3494', '3533', '4557', '4807', '4930', '4935', '6415', '6805', '6807', '8028', '8201', '9924']

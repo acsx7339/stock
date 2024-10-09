@@ -58,10 +58,10 @@ class Yfinance:
         value_5ma = item.loc[cur_date, "5MA"]
         value_10ma = item.loc[cur_date, "10MA"]
         result_ma = value_5ma - value_10ma
-        if value_10ma * 1.08 > value_5ma  and result_ma > 0:
-            print(f"5ma is bigger than 10ma and within 1.08%")
+        if value_10ma * 1.05 > value_5ma  and result_ma > 0:
+            print(f"5ma is bigger than 10ma and within 1.05%")
             return True
-        elif value_10ma * 1.08 < value_5ma:
+        elif value_10ma * 1.05 < value_5ma:
             print(f"5ma is far from 10ma")
         elif value_10ma > value_5ma:
             print("10ma value is greater than 5ma")
