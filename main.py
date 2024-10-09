@@ -12,7 +12,7 @@ def main():
         print(f"current test stock is {item}")
         stock_content = yf().yahoo_result(item)
         daily_content = yf().daily_status(stock_content)
-        Weekly_content = yf().monthly_status(stock_content)
+        Weekly_content = yf().Weekly_status(stock_content)
         if (yf().upper_trend(daily_content, "5MA") and # 只要是往上的就可以
             yf().upper_trend(daily_content, "10MA") and
             yf().upper_trend(daily_content, "60MA") and
