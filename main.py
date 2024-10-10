@@ -4,8 +4,8 @@ from candlestick import Yfinance as yf
 import logging
 
 logging.basicConfig(
-    level=logging.info,   # 設置最低的日誌級別
-    format='%(asctime)s - %(levelname)s - %(message)s',  # 設置日誌格式
+    level=logging.INFO,   # 設置最低的日誌級別
+    format='%(levelname)s - %(message)s',  # 設置日誌格式
     handlers=[
         logging.FileHandler("result.log"),  # 將日誌寫入文件
         logging.StreamHandler()          # 將日誌輸出到控制台

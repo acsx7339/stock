@@ -8,8 +8,8 @@ from scipy.signal import find_peaks
 import logging
 
 logging.basicConfig(
-    level=logging.info,   # 設置最低的日誌級別
-    format='%(asctime)s - %(levelname)s - %(message)s',  # 設置日誌格式
+    level=logging.INFO,   # 設置最低的日誌級別
+    format='%(levelname)s - %(message)s',  # 設置日誌格式
     handlers=[
         logging.FileHandler("result.log"),  # 將日誌寫入文件
         logging.StreamHandler()          # 將日誌輸出到控制台
@@ -19,10 +19,11 @@ logging.basicConfig(
 
 class Yfinance:
 
-    def __init__(self):
-        self.end_date = pd.Timestamp(datetime.now()).normalize() + pd.offsets.MonthEnd(0)
-        self.start_date = self.end_date - pd.DateOffset(months=60)
-        logging.info(f"查詢股票的 開始日期: {self.start_date.date()}, 結束: {self.end_date.date()}")
+    end_date = pd.Timestamp(datetime.now()).normalize() + pd.offsets.MonthEnd(0)
+    start_date = end_date - pd.DateOffset(months=60)
+    logging.info(f"查詢股票的 開始日期: {start_date.date()}, 結束: {end_date.date()}")
+    # def __init__(self):
+        
         # print(f"start date: {self.start_date.date()}, end date: {self.end_date.date()}")
 
     def yahoo_result(self, stock):
@@ -36,7 +37,7 @@ class Yfinance:
         Weekly_stock_df = pd.DataFrame(Weekly_stock)
         Weekly_stock_df['5MA'] = talib.SMA(Weekly_stock_df['Adj Close'].values.astype(float), timeperiod=5)
         Weekly_stock_df['10MA'] = talib.SMA(Weekly_stock_df['Adj Close'].values.astype(float), timeperiod=10)
-        logging.info(Weekly_stock_df[['5MA', '10MA']].tail(2))
+        logging.info(f"週Ｋ的ｍａ值： {Weekly_stock_df[['5MA', '10MA']].tail(2)}")
         return Weekly_stock_df[['5MA', '10MA']].tail(2)
 
     def daily_status(self, content):
@@ -47,7 +48,7 @@ class Yfinance:
         daily_stock_df['5MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float), timeperiod=5)
         daily_stock_df['10MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float)-0.2, timeperiod=10)
         daily_stock_df['60MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float), timeperiod=60)
-        logging.info(daily_stock_df[['5MA', '10MA', '60MA']].tail(2))
+        logging.info(f"日Ｋ的 ｍａ值： {daily_stock_df[['5MA', '10MA', '60MA']].tail(2)}")
         return daily_stock_df[['5MA', '10MA', '60MA']].tail(2)
 
     def upper_trend(self, item, ma):
@@ -61,14 +62,13 @@ class Yfinance:
             logging.info(f"{ma} 是向上趨勢的 通過")
             return True
         else:
-            logging.info(f"{ma} 是向下趨勢的")        
+            logging.info(f"{ma} 是向下趨勢的 不通過")        
 
     def high_trend(self, item):
         cur_date = item.index[1].strftime('%Y-%m-%d')
         value_5ma = item.loc[cur_date, "5MA"]
         value_10ma = item.loc[cur_date, "10MA"]
-        result_ma = value_5ma - value_10ma
-        if value_10ma * 1.05 > value_5ma > value_10ma  and result_ma > 0:
+        if value_10ma * 1.05 > value_5ma > value_10ma  :
             logging.info(f"5ma在 10ma的0.05%範圍內 通過")
             return True
         elif value_10ma * 1.05 < value_5ma:
@@ -105,7 +105,7 @@ class Yfinance:
             print("price is not higher than previous")
 
     def near_price(self, price, ma):
-        if price >= ma * 1.02:
+        if ma * 1.05 >= price >= ma * 1.02:
             logging.info("收盤價在5ma附近")
             return True
         else:
