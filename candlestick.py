@@ -5,6 +5,16 @@ import numpy as np
 from datetime import datetime
 from GetTWStock import TWStock
 from scipy.signal import find_peaks
+import logging
+
+logging.basicConfig(
+    level=logging.info,   # 設置最低的日誌級別
+    format='%(asctime)s - %(levelname)s - %(message)s',  # 設置日誌格式
+    handlers=[
+        logging.FileHandler("result.log"),  # 將日誌寫入文件
+        logging.StreamHandler()          # 將日誌輸出到控制台
+    ]
+)
 
 
 class Yfinance:
@@ -12,6 +22,7 @@ class Yfinance:
     def __init__(self):
         self.end_date = pd.Timestamp(datetime.now()).normalize() + pd.offsets.MonthEnd(0)
         self.start_date = self.end_date - pd.DateOffset(months=60)
+        logging.info(f"查詢股票的 開始日期: {self.start_date.date()}, 結束: {self.end_date.date()}")
         # print(f"start date: {self.start_date.date()}, end date: {self.end_date.date()}")
 
     def yahoo_result(self, stock):
@@ -25,7 +36,7 @@ class Yfinance:
         Weekly_stock_df = pd.DataFrame(Weekly_stock)
         Weekly_stock_df['5MA'] = talib.SMA(Weekly_stock_df['Adj Close'].values.astype(float), timeperiod=5)
         Weekly_stock_df['10MA'] = talib.SMA(Weekly_stock_df['Adj Close'].values.astype(float), timeperiod=10)
-        # print(Weekly_stock_df[['5MA', '10MA']].tail(2))
+        logging.info(Weekly_stock_df[['5MA', '10MA']].tail(2))
         return Weekly_stock_df[['5MA', '10MA']].tail(2)
 
     def daily_status(self, content):
@@ -36,7 +47,7 @@ class Yfinance:
         daily_stock_df['5MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float), timeperiod=5)
         daily_stock_df['10MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float)-0.2, timeperiod=10)
         daily_stock_df['60MA'] = talib.SMA(daily_stock_df['Adj Close'].values.astype(float), timeperiod=60)
-        # print(daily_stock_df[['5MA', '10MA', '60MA']].tail(2))
+        logging.info(daily_stock_df[['5MA', '10MA', '60MA']].tail(2))
         return daily_stock_df[['5MA', '10MA', '60MA']].tail(2)
 
     def upper_trend(self, item, ma):
@@ -44,28 +55,26 @@ class Yfinance:
         prev_date = item.index[0].strftime('%Y-%m-%d')
         cur_ma = item.loc[cur_date, ma]
         prev_ma = item.loc[prev_date, ma]
-        # print(f"current {ma} value is {cur_ma}, previous value is {prev_ma}")
+        logging.info(f"current {ma} value is {cur_ma}, previous value is {prev_ma}")
         upper_result = cur_ma - prev_ma
         if upper_result > 0:
-            print(f"{ma} is upper trend")
+            logging.info(f"{ma} 是向上趨勢的 通過")
             return True
         else:
-            print(f"{ma} is down trend")
-        
+            logging.info(f"{ma} 是向下趨勢的")        
 
     def high_trend(self, item):
         cur_date = item.index[1].strftime('%Y-%m-%d')
         value_5ma = item.loc[cur_date, "5MA"]
         value_10ma = item.loc[cur_date, "10MA"]
         result_ma = value_5ma - value_10ma
-        if value_10ma * 1.05 > value_5ma  and result_ma > 0:
-            print(f"5ma is bigger than 10ma and within 1.05%")
+        if value_10ma * 1.05 > value_5ma > value_10ma  and result_ma > 0:
+            logging.info(f"5ma在 10ma的0.05%範圍內 通過")
             return True
         elif value_10ma * 1.05 < value_5ma:
-            print(f"5ma is far from 10ma")
+            logging.info(f"5ma比10ma的1.05%還要大")
         elif value_10ma > value_5ma:
-            print("10ma value is greater than 5ma")
-
+            logging.info("10ma比5ma還要大")
     def volume_break(self, item):
         daily_volume = item['Volume'] // 1000
         recent_volume = daily_volume.tail(21)
@@ -95,10 +104,20 @@ class Yfinance:
         else:
             print("price is not higher than previous")
 
+    def near_price(self, price, ma):
+        if price >= ma * 1.02:
+            logging.info("收盤價在5ma附近")
+            return True
+        else:
+            logging.info("收盤價不在5ma附近")
+
+
         
 # if __name__ == "__main__":
     # stock = Yfinance()
     # content = stock.yahoo_result("2102")
+    # print(stock.daily_status(content)["5MA"].iloc[-1])
+    # print(content['Close'].iloc[-1])
     # stock.price_break(content)
     # print(content)
     # stock.volume(content)

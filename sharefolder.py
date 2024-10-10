@@ -2,6 +2,16 @@ from FinMind.data import DataLoader
 from datetime import datetime, timedelta
 import pandas as pd
 import requests
+import logging
+
+logging.basicConfig(
+    level=logging.info,   # 設置最低的日誌級別
+    format='%(asctime)s - %(levelname)s - %(message)s',  # 設置日誌格式
+    handlers=[
+        logging.FileHandler("result.log"),  # 將日誌寫入文件
+        logging.StreamHandler()          # 將日誌輸出到控制台
+    ]
+)
 
 class Finmind:
 
@@ -21,9 +31,8 @@ class Finmind:
         data = data.json()
         data = pd.DataFrame(data['data'])
         total_seven = data.head(8)
-        print(data.head(8))
         total_percent = total_seven['percent'].sum()
-        # print(total_percent)
+        logging.info(f"籌碼為： {total_percent}")
         return(total_percent)
 
     # 定義函數來取得最近的星期五
@@ -66,26 +75,31 @@ class Finmind:
             revenue_in_billions_list.append(revenue_in_billions)
         # 計算兩個營收的差異
         revenue_difference = revenue_in_billions_list[0] - revenue_in_billions_list[1]
+        logging.info(f"這個月的近十二個月營收總和{revenue_in_billions_list[0]}  上個月的近十二個月營收總和{revenue_in_billions_list[1]}")
         # print(f"這個月的近十二個月營收總和減去上個月的近十二個月營收總和: {revenue_difference} 億")
         if revenue_difference > 0:
-            print("revenus is positive")
+            logging.info("累積營收是正的 通過")
             return True
+        else:
+            logging.info("累積營收是負的 不通過")
+
 
     def ratio_result(self, item):
         now_data, previous_date = self.get_fridays()
         # print(now_data, previous_date)
         now_ratio = self.GetShareFolder(item, now_data)
         previous_ratio = self.GetShareFolder(item, previous_date)
+        logging.info(f"這週的散戶比例： {now_ratio} 上週的散戶比例 {previous_ratio}")
         # print(now_ratio, previous_ratio)
         if now_ratio - previous_ratio < 0 and now_ratio < 50:
-            print("散戶減少")
+            logging.info("散戶減少 通過")
             return True
         else:
-            print("散戶增加")
+            logging.info("散戶增加 不通過")
 
-if __name__ == "__main__":
-    fm = Finmind()
-    fm.ratio_result("4426")
+# if __name__ == "__main__":
+#     fm = Finmind()
+#     fm.ratio_result("4426")
     # fm.Revenue("2406")
 
 
